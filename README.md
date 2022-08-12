@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey, I'm Leonard! 👋
 
 <!--
 **sheeeng/sheeeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github.sheeeng.visitor-badge-reloaded&color=55acb7&style=for-the-badge&logo=Github)
