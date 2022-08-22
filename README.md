@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=sheeeng&theme=nord&no-bg=true&no-frame=false&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=sheeeng&theme=nord&no-bg=false&no-frame=false&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
 
