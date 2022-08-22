@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/sheeeng?template=classic&config.timezone=Europe%2FOslo"/>
+    <img height="300px" src="https://metrics.lecoq.io/sheeeng?template=repository&config.timezone=Europe%2FOslo"/>
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=sheeeng&theme=github"/>
 </div>
 
