@@ -22,10 +22,20 @@ jobs:
       #     feed-url: https://jasonet.co/rss.xml
       #     readme-section: posts
       #     empty-commits: "false"
+
+      - uses: actions/github-script@v6
+        id: set-result
+        with:
+          script: return "🥰"
+          result-encoding: string
+      - name: Get Result
+        run: echo "${{steps.set-result.outputs.result}}"
+
       - name: View Context Attributes
         uses: actions/github-script@v6
         with:
           script: console.log(context)
+
       - name: GitHub Script
         uses: actions/github-script@v5
         with:
