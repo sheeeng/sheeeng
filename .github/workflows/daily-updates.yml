@@ -20,7 +20,7 @@ jobs:
       - name: GitHub Script
         uses: actions/github-script@v6
         with:
-          # github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
               changeUserStatus (input: $input) {
