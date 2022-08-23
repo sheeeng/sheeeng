@@ -1,4 +1,5 @@
 # https://github.com/jasonetco/jasonetco/blob/master/.github/workflows/daily-updates.yml
+# const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
 name: Daily Updates
 
@@ -21,7 +22,10 @@ jobs:
       #     feed-url: https://jasonet.co/rss.xml
       #     readme-section: posts
       #     empty-commits: "false"
-
+      - name: View Context Attributes
+        uses: actions/github-script@v6
+        with:
+          script: console.log(context)
       - name: GitHub Script
         uses: actions/github-script@v5
         with:
@@ -37,7 +41,6 @@ jobs:
             }`
 
             const days = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣᗕ)՞', 'ʕ •ᴥ• ʔ', 'ヽ(♡‿♡)ノ', '☆*:.｡.o(≧▽≦)o.｡.:*☆']
-            // const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
             const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
             const dayIndex = (new Date()).getDay()
 
