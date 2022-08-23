@@ -1,12 +1,10 @@
 # https://github.com/jasonetco/jasonetco/blob/master/.github/workflows/daily-updates.yml
-# const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
 name: Daily Updates
 
 on:
-  # schedule:
-  #   # - cron: 55 5 * * * # “At every 05:55.”
-  #   - cron: "*/15 * * * *" # “At every 15th minute.”
+  schedule:
+    - cron: 55 5 * * * # “At every 05:55.”
   push:
     branches:
       - main
@@ -14,7 +12,6 @@ on:
 jobs:
   updates:
     name: Daily Updates
-    # permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Script
@@ -31,13 +28,14 @@ jobs:
               }
             }`
 
-            const days = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣᗕ)՞', 'ʕ •ᴥ• ʔ', 'ヽ(♡‿♡)ノ', '☆*:.｡.o(≧▽≦)o.｡.:*☆']
+            const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+            const kaomojis = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣᗕ)՞', 'ʕ •ᴥ• ʔ', 'ヽ(♡‿♡)ノ', '☆*:.｡.o(≧▽≦)o.｡.:*☆']
             const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
             const dayIndex = (new Date()).getDay()
 
             github.graphql(query, {
               input: {
                 emoji: `${emojis[dayIndex]}`,
-                message: `Happy ${days[dayIndex]}!`
+                message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`
               }
             })
