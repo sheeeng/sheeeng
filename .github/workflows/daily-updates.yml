@@ -7,7 +7,7 @@ on:
     # “At 05:55.”
     # - cron: 55 5 * * *
     # “At every 30th minute.”
-    - cron: */30 * * * *
+    - cron: "*/30 * * * *"
   push:
     branches:
       - master
