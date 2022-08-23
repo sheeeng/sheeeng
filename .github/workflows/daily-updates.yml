@@ -4,10 +4,8 @@ name: Daily Updates
 
 on:
   schedule:
-    # “At 05:55.”
-    # - cron: 55 5 * * *
-    # “At every 30th minute.”
-    - cron: "*/30 * * * *"
+    # - cron: 55 5 * * * # “At every 05:55.”
+    - cron: "*/30 * * * *" # “At every 30th minute.”
   push:
     branches:
       - master
