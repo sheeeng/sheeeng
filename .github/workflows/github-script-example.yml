@@ -11,7 +11,7 @@ on:
 
 jobs:
   updates:
-    name: Update README
+    name: GitHub Script
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v6
