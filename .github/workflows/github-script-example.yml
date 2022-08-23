@@ -1,0 +1,28 @@
+name: GitHub Script Example
+
+on:
+  # schedule:
+  #   # - cron: 55 5 * * * # “At every 05:55.”
+  #   - cron: "*/15 * * * *" # “At every 15th minute.”
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  updates:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        id: set-result
+        with:
+          script: return "🥰"
+          result-encoding: string
+      - name: Get Result
+        run: echo "${{steps.set-result.outputs.result}}"
+
+      - name: View Context Attributes
+        uses: actions/github-script@v6
+        with:
+          script: console.log(context)
