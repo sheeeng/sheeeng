@@ -1,4 +1,4 @@
-name: GitHub Script Example
+name: GitHub Script
 
 on:
   # schedule:
