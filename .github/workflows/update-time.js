@@ -30,5 +30,5 @@ const EmojiDivider = "•───•°•❀•°•───•";
 
 module.exports = async ({ github, context, core }) => {
   let momentTimestamp = moment(Date.now())
-  return momentTimestamp.toISOString() + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + + EmptySpaceString + " :norway: ";
+  return momentTimestamp.toISOString() + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + EmojiDivider + EmptySpaceString + ":norway:";
 }
