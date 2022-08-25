@@ -13,8 +13,8 @@ const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
 const dayIndex = (new Date()).getDay()
 const limitedAvailabilityDayNames = new Set(["Friday", "Saturday", "Sunday"]);
 
-module.exports = ({ github, context }) => {
-  return github.graphql(query, {
+module.exports = async ({ github, context, core }) => {
+  github.graphql(query, {
     input: {
       emoji: `${emojis[dayIndex]}`,
       message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`,
