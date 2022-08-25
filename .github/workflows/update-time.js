@@ -36,15 +36,12 @@ module.exports = async ({ github, context, core }) => {
   console.log(EmojiDivider)
 
   var utcTimestamp = moment.utc(momentTimestamp).tz("UTC");
-  console.log("UTC:" + utcTimestamp.format());
+  console.log("UTC         :" + utcTimestamp.format());
 
   var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
-  console.log("Europe/Oslo:" + osloTimestamp.format());
-  console.log("Europe/Oslo:" + osloTimestamp.format("HH:mm:ss"));
-  console.log("Europe/Oslo:" + osloTimestamp.format("LTS"));
+  console.log("Europe/Oslo :" + osloTimestamp.format());
+  console.log("Europe/Oslo :" + osloTimestamp.format("HH:mm:ss"));
+  console.log("Europe/Oslo :" + osloTimestamp.format("LTS"));
 
-  const momentLocalTime = osloTimestamp.format("HH:mm:ss").format("LTS")
-  console.log(momentLocalTime)
-
-  return momentLocalTime + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
+  return osloTimestamp.format("LT") + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
 }
