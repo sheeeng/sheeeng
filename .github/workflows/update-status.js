@@ -17,10 +17,12 @@ if (limitedAvailabilityDayNames.has(dayNames[dayIndex])) {
   limitedAvailability = true;
 }
 
-github.graphql(query, {
-  input: {
-    emoji: `${emojis[dayIndex]}`,
-    message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`,
-    limitedAvailability: `${hasLimitedAvailability}`
-  }
-})
+module.exports = ({ github, context }) => {
+  github.graphql(query, {
+    input: {
+      emoji: `${emojis[dayIndex]}`,
+      message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`,
+      limitedAvailability: `${hasLimitedAvailability}`
+    }
+  })
+}
