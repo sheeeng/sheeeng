@@ -9,7 +9,8 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
 
 const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 const kaomojis = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣᗕ)՞', 'ʕ •ᴥ• ʔ', 'ヽ(♡‿♡)ノ', '☆*:.｡.o(≧▽≦)o.｡.:*☆']
-const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
+// const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
+const emojis = ['🤿', '🌊', '🐡', '🐟', '🐠', '🐚', '🪸']
 const dayIndex = (new Date()).getDay()
 const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
 
