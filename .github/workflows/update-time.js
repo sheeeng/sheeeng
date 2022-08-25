@@ -27,5 +27,5 @@ function emojiClock(time) {
 
 module.exports = async ({ github, context, core }) => {
   let momentTimestamp = moment(Date.now())
-  return momentTimestamp.toISOString() + emojiClock(time) + "•───•°•❀•°•───•" + " :norway: ";
+  return momentTimestamp.toISOString() + emojiClock(momentTimestamp.toDate()) + "•───•°•❀•°•───•" + " :norway: ";
 }
