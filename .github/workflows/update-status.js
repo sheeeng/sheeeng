@@ -14,6 +14,7 @@ const dayIndex = (new Date()).getDay()
 const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
 
 module.exports = async ({ github, context, core }) => {
+  // https://docs.github.com/en/graphql/reference/input-objects#changeuserstatusinput
   return github.graphql(query, {
     input: {
       emoji: `${emojis[dayIndex]}`,
