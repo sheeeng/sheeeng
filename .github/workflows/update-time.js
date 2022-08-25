@@ -7,7 +7,7 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
   }
 }`
 
-const moment = require('moment')
+const moment = require('moment-timezone')
 
 function emojiClock(momentTimestamp) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
@@ -29,6 +29,9 @@ const EmptySpaceString = " ";
 const EmojiDivider = "•───•°•❀•°•───•";
 
 module.exports = async ({ github, context, core }) => {
-  let momentTimestamp = moment(Date.now())
-  return momentTimestamp.toISOString() + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + EmojiDivider + EmptySpaceString + ":norway:";
+  let momentTimestamp = moment(Date.now()).tz("Europe/Oslo").format()
+  console.log(momentTimestamp.toISOString())
+  console.log(EmojiDivider)
+  const momentLocalTime = moment(momentTimestamp, "HH:mm:ss").format("LT")
+  return momentLocalTime + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + EmptySpaceString + ":norway:";
 }
