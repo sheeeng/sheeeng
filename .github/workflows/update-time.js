@@ -22,10 +22,13 @@ function emojiClock(momentTimestamp) {
   let thirtyMinutesOrBlank = isNearHalfHour ? "30" : "";
 
   // Return the clock emoji that most resembles the current time
-  `:clock${hour}${thirtyMinutesOrBlank}:`
+  return `:clock${hour}${thirtyMinutesOrBlank}:`
 }
+
+const EmptySpaceString = " ";
+const EmojiDivider = "•───•°•❀•°•───•";
 
 module.exports = async ({ github, context, core }) => {
   let momentTimestamp = moment(Date.now())
-  return momentTimestamp.toISOString() + emojiClock(momentTimestamp) + "•───•°•❀•°•───•" + " :norway: ";
+  return momentTimestamp.toISOString() + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + + EmptySpaceString + " :norway: ";
 }
