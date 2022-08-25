@@ -18,7 +18,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 18
-      - run: npm ci
       - run: npm install --global yarn
       - run: yarn global add moment
       - uses: actions/github-script@v6
