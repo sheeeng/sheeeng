@@ -14,7 +14,7 @@ jobs:
     name: Update Status
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
