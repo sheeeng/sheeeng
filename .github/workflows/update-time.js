@@ -39,5 +39,5 @@ module.exports = async ({ github, context, core }) => {
   const momentLocalTime = moment(momentLocalTimestamp, "HH:mm:ss").format("LTS")
   console.log(momentLocalTime)
 
-  return momentLocalTime + EmptySpaceString + emojiClock(momentLocalTimestamp) + EmptySpaceString + ":norway:";
+  return momentLocalTime + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
 }
