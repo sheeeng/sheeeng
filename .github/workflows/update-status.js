@@ -18,7 +18,7 @@ module.exports = async ({ github, context, core }) => {
     input: {
       emoji: `${emojis[dayIndex]}`,
       message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`,
-      limitedAvailability: limitedAvailabilityDayNames.has(dayNames[dayIndex])
+      limitedAvailability: !limitedAvailabilityDayNames.has(dayNames[dayIndex])
     }
   })
 }
