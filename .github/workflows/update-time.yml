@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 18
       - run: npm install --global yarn
-      - run: yarn add moment
+      - run: yarn add moment moment-timezone
       - uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
