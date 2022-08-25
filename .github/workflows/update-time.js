@@ -7,6 +7,8 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
   }
 }`
 
+const moment = require('moment')
+
 function emojiClock(time) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
   let hour = time.strftime("%l").toI;
