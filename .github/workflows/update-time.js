@@ -40,6 +40,8 @@ module.exports = async ({ github, context, core }) => {
 
   var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
   console.log("Europe/Oslo:" + osloTimestamp.format());
+  console.log("Europe/Oslo:" + osloTimestamp.format("HH:mm:ss"));
+  console.log("Europe/Oslo:" + osloTimestamp.format("LTS"));
 
   const momentLocalTime = osloTimestamp.format("HH:mm:ss").format("LTS")
   console.log(momentLocalTime)
