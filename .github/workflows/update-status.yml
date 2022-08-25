@@ -1,0 +1,23 @@
+# https://github.com/jasonetco/jasonetco/blob/master/.github/workflows/daily-updates.yml
+
+name: Update Status
+
+on:
+  schedule:
+    - cron: 55 5 * * * # “At every 05:55.”
+  push:
+    branches:
+      - main
+
+jobs:
+  updates:
+    name: Update Status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
+          script: |
+            const script = require('.github/workflows/update-status.js')
+            console.log(script({github, context}))
