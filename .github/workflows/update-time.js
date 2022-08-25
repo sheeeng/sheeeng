@@ -24,6 +24,6 @@ function emojiClock(time) {
 }
 
 module.exports = async ({ github, context, core }) => {
-  let time = Time.now
+  let time = Date.now()
   return time.strftime("It's %l:%M%P in :norway:.") + "•───•°•❀•°•───•" + emojiClock(time);
 }
