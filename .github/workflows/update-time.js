@@ -9,12 +9,12 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
 
 const moment = require('moment')
 
-function emojiClock(time) {
+function emojiClock(momentTimestamp) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
-  let hour = time.strftime("%l").toI;
+  let hour = momentTimestamp.format('h');
 
   // Minute as a decimal number (range 00 to 59).
-  let minute = time.strftime("%M").toI;
+  let minute = momentTimestamp.format('mm');
 
   // If minute is between 15 and 45, use the emoji clocks
   // that point at minute 30. For example: 🕦 or 🕝.
@@ -27,5 +27,5 @@ function emojiClock(time) {
 
 module.exports = async ({ github, context, core }) => {
   let momentTimestamp = moment(Date.now())
-  return momentTimestamp.toISOString() + emojiClock(momentTimestamp.toDate()) + "•───•°•❀•°•───•" + " :norway: ";
+  return momentTimestamp.toISOString() + emojiClock(momentTimestamp) + "•───•°•❀•°•───•" + " :norway: ";
 }
