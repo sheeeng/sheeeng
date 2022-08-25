@@ -33,7 +33,7 @@ jobs:
             const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
             const dayIndex = (new Date()).getDay()
             const limitedAvailabilityDayNames = new Set(["Friday", "Saturday", "Sunday"]);
-            bool hasLimitedAvailability = false;
+            var hasLimitedAvailability = false;
             if(limitedAvailabilityDayNames.has(dayNames[dayIndex])){
                 limitedAvailability = true;
             }
@@ -42,6 +42,6 @@ jobs:
               input: {
                 emoji: `${emojis[dayIndex]}`,
                 message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`
-                limitedAvailability: `${hasLimitedAvailability}`
+                limitedAvailability: ${hasLimitedAvailability}
               }
             })
