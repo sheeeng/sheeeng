@@ -12,9 +12,13 @@ const moment = require('moment-timezone')
 function emojiClock(momentTimestamp) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
   let hour = momentTimestamp.format('h');
+  hour = moment.utc(momentTimestamp).tz("Europe/Oslo").format('h')
+  console.log("EmojiClock : " + hour);
 
   // Minute as a decimal number (range 00 to 59).
   let minute = momentTimestamp.format('mm');
+  minute = moment.utc(momentTimestamp).tz("Europe/Oslo").format('mm')
+  console.log("EmojiClock : " + minute);
 
   // If minute is between 15 and 45, use the emoji clocks
   // that point at minute 30. For example: 🕦 or 🕝.
@@ -36,12 +40,12 @@ module.exports = async ({ github, context, core }) => {
   console.log(EmojiDivider)
 
   var utcTimestamp = moment.utc(momentTimestamp).tz("UTC");
-  console.log("UTC         :" + utcTimestamp.format());
+  console.log("UTC         : " + utcTimestamp.format());
 
   var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
-  console.log("Europe/Oslo :" + osloTimestamp.format());
-  console.log("Europe/Oslo :" + osloTimestamp.format("HH:mm:ss"));
-  console.log("Europe/Oslo :" + osloTimestamp.format("LTS"));
+  console.log("Europe/Oslo : " + osloTimestamp.format());
+  console.log("Europe/Oslo : " + osloTimestamp.format("HH:mm:ss"));
+  console.log("Europe/Oslo : " + osloTimestamp.format("LTS"));
 
   return osloTimestamp.format("LT") + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
 }
