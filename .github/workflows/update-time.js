@@ -26,7 +26,7 @@ function emojiClock(momentTimestamp) {
 }
 
 const EmptySpaceString = " ";
-const EmojiDivider = "•───•°•❀•°•───•";
+const EmojiDivider = "•─•°•❀•°•─•";
 
 module.exports = async ({ github, context, core }) => {
   const momentTimestamp = moment(Date.now())
@@ -34,6 +34,10 @@ module.exports = async ({ github, context, core }) => {
   console.log(EmojiDivider)
 
   const momentLocalTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo").format()
+  console.log(momentLocalTimestamp)
+
   const momentLocalTime = moment(momentLocalTimestamp, "HH:mm:ss").format("LTS")
-  return momentLocalTime + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + EmptySpaceString + ":norway:";
+  console.log(momentLocalTime)
+
+  return momentLocalTime + EmptySpaceString + emojiClock(momentLocalTimestamp) + EmptySpaceString + ":norway:";
 }
