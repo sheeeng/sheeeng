@@ -33,6 +33,12 @@ module.exports = async ({ github, context, core }) => {
   console.log(momentTimestamp.toISOString())
   console.log(EmojiDivider)
 
+  var utcTimestamp = moment.utc(momentTimestamp).tz("UTC");
+  console.log("UTC:" + utcTimestamp.format());
+
+  var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
+  console.log("Europe/Oslo:" + osloTimestamp.format());
+
   const momentLocalTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo").format()
   console.log(momentLocalTimestamp)
 
