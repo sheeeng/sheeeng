@@ -7,7 +7,7 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
   }
 }`
 
-privateClassMethod(this.clockEmoji = function (time) {
+function emojiClock(time) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
   let hour = time.strftime("%l").toI;
 
@@ -21,8 +21,9 @@ privateClassMethod(this.clockEmoji = function (time) {
 
   // Return the clock emoji that most resembles the current time
   `:clock${hour}${thirtyMinutesOrBlank}:`
-})
+}
 
 module.exports = async ({ github, context, core }) => {
-  return time.strftime("It's %l:%M%P in :norway:.") + "•───•°•❀•°•───•" + clockEmoji;
+  let time = Time.now
+  return time.strftime("It's %l:%M%P in :norway:.") + "•───•°•❀•°•───•" + emojiClock(time);
 }
