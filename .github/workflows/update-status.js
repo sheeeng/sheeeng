@@ -14,7 +14,7 @@ const dayIndex = (new Date()).getDay()
 const limitedAvailabilityDayNames = new Set(["Friday", "Saturday", "Sunday"]);
 var hasLimitedAvailability = false;
 if (limitedAvailabilityDayNames.has(dayNames[dayIndex])) {
-  limitedAvailability = true;
+  hasLimitedAvailability = true;
 }
 
 module.exports = ({ github, context }) => {
