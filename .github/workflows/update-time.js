@@ -21,6 +21,8 @@ function emojiClock(momentTimestamp) {
   let isNearHalfHour = minute > 15 && minute < 45;
   let thirtyMinutesOrBlank = isNearHalfHour ? "30" : "";
 
+  //TODO: It shows previous hour only after 45-th minutes.
+
   // Return the clock emoji that most resembles the current time
   return `:clock${hour}${thirtyMinutesOrBlank}:`
 }
@@ -39,10 +41,7 @@ module.exports = async ({ github, context, core }) => {
   var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
   console.log("Europe/Oslo:" + osloTimestamp.format());
 
-  const momentLocalTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo").format()
-  console.log(momentLocalTimestamp)
-
-  const momentLocalTime = moment(momentLocalTimestamp, "HH:mm:ss").format("LTS")
+  const momentLocalTime = osloTimestamp.format("HH:mm:ss").format("LTS")
   console.log(momentLocalTime)
 
   return momentLocalTime + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
