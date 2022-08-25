@@ -42,6 +42,6 @@ jobs:
               input: {
                 emoji: `${emojis[dayIndex]}`,
                 message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`
-                limitedAvailability: hasLimitedAvailability
+                limitedAvailability: `${hasLimitedAvailability}`
               }
             })
