@@ -11,14 +11,14 @@ const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Frida
 const kaomojis = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣᗕ)՞', 'ʕ •ᴥ• ʔ', 'ヽ(♡‿♡)ノ', '☆*:.｡.o(≧▽≦)o.｡.:*☆']
 const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
 const dayIndex = (new Date()).getDay()
-const limitedAvailabilityDayNames = new Set(["Friday", "Saturday", "Sunday"]);
+const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
 
 module.exports = async ({ github, context, core }) => {
   return github.graphql(query, {
     input: {
       emoji: `${emojis[dayIndex]}`,
       message: `It's ${dayNames[dayIndex]}! ${kaomojis[dayIndex]}`,
-      limitedAvailability: !limitedAvailabilityDayNames.has(dayNames[dayIndex])
+      limitedAvailability: limitedAvailabilityDayNames.has(dayNames[dayIndex])
     }
   })
 }
