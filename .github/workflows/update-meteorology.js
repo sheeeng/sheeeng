@@ -1,10 +1,10 @@
 const moment = require('moment-timezone')
+const fetch = require("node-fetch");
 
-let headers = new Headers({
-  "Accept": "application/xml",
-  "Content-Type": "application/xml",
-  'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com'
-});
+let customHeader = new fetch.Headers();
+customHeader.append('Accept', 'application/xml');
+customHeader.append('Content-Type', 'text/xml');
+customHeader.append('User-Agent', 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com');
 
 let meteorologyXmlData;
 
@@ -12,7 +12,7 @@ function curlMeteorologyData() {
   fetch('https://api.met.no/weatherapi/sunrise/2.0/\?lat\=59.933333\&lon\=10.716667\&date\=2022-08-25\&offset\=+02:00',
     {
       method: 'GET',
-      headers: headers
+      headers: customHeader
     })
     // .then((response) => response.json())
     // .then((data) => console.log(data));
