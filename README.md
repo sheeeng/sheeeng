@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link href="style.css" rel="stylesheet"></link>
+<!-- TODO: Separated stylesheet does not work in GitHub README file. -->
+<!-- <link href="style.css" rel="stylesheet"></link> -->
 
 <h1 align="center"> Hey, I'm Leonard! 👋 </h1>
 
