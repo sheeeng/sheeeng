@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 <details align="center">
     <summary align="center">Random Joke</summary>
     <p align="center">
-        <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+        <br/>
+        <b>✿°•∘ɷ∘•°✿ ... ✿°•∘ɷ∘•°✿ ... ✿°•∘ɷ∘•°✿</b>
+        <br/>
+        <img src="https://readme-jokes.vercel.app/api?hide-border&theme=solarized-light" alt="Random Joke" />
     </p>
 </details>
 
