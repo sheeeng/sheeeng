@@ -42,6 +42,13 @@ Here are some ideas to get you started:
     </p>
 </details>
 
+<details align="center">
+    <summary align="center">Random Joke</summary>
+    <p align="center">
+        <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+    </p>
+</details>
+
 <!--
 🌑 :new_moon:
 🌒 :waxing_crescent_moon:
