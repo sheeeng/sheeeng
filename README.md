@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 </h1>
 
 <details>
-    <summary align="center">GitHub Statistics</summary>
+    <p align="center">
+        <summary>GitHub Statistics</summary>
+    </p>
     <p align="center">
         <br/>
     · · <b>─────── ·𖥸· ─────── · ·</b>
