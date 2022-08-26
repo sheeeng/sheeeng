@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 <link href="style.css" rel="stylesheet"></link>
 
-<h1> Hey, I'm Leonard! 👋 </h1>
+<h1 align="center"> Hey, I'm Leonard! 👋 </h1>
 
-<p>
+<p align="center">
     <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
         <img src="./images/mona-loading-default.gif" width="64" height="64" alt="Mona List Octocat"/>
     </a>
 </p>
 
 <details>
-    <summary>GitHub Statistics</summary>
-    <p>
+    <summary align="center">GitHub Statistics</summary>
+    <p align="center">
         <br/>
     · · <b>─────── ·𖥸· ─────── · ·</b>
         <br/>
