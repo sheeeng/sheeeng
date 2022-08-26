@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <!-- <link href="style.css" rel="stylesheet"></link> -->
 
 <h1 align="center">
+    <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
+        <img src="./images/mona-loading-default-flipped.gif" width="48" height="48" alt="Mona List Octocat"/>
+    </a>
     Hey, I'm Leonard!
     <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
         <img src="./images/mona-loading-default.gif" width="48" height="48" alt="Mona List Octocat"/>
