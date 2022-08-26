@@ -9,16 +9,16 @@ const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
 
 const moment = require('moment-timezone')
 
-function emojiClock(momentTimestamp) {
+function emojiClock(momentTimestamp, timezone) {
   // Hour as a decimal number using a 12-hour clock (range 1 to 12).
   let hour = momentTimestamp.format('h');
-  hour = moment.utc(momentTimestamp).tz("Europe/Oslo").format('h')
-  console.log("EmojiClock : " + hour);
+  hour = moment.utc(momentTimestamp).tz(timezone).format('h')
+  console.log("EmojiClock Hour   : " + hour);
 
   // Minute as a decimal number (range 00 to 59).
   let minute = momentTimestamp.format('mm');
-  minute = moment.utc(momentTimestamp).tz("Europe/Oslo").format('mm')
-  console.log("EmojiClock : " + minute);
+  minute = moment.utc(momentTimestamp).tz(timezone).format('mm')
+  console.log("EmojiClock Minute : " + minute);
 
   // If minute is between 15 and 45, use the emoji clocks
   // that point at minute 30. For example: 🕦 or 🕝.
@@ -32,20 +32,30 @@ function emojiClock(momentTimestamp) {
 }
 
 const EmptySpaceString = " ";
-const EmojiDivider = "•─•°•❀•°•─•";
+const EmojiDivider = EmptySpaceString + "•─•°•❀•°•─•" + EmptySpaceString;
+const TimeZoneEuropeOslo = "Europe/Oslo";
+const EmojiNorway = ":norway:";
 
-module.exports = async ({ github, context, core }) => {
+function getTimestamp(momentTimestamp, timezone) {
   const momentTimestamp = moment(Date.now())
-  console.log(momentTimestamp.toISOString())
-  console.log(EmojiDivider)
+  console.log("UTC         : " + momentTimestamp.toISOString());
 
   var utcTimestamp = moment.utc(momentTimestamp).tz("UTC");
   console.log("UTC         : " + utcTimestamp.format());
 
-  var osloTimestamp = moment.utc(momentTimestamp).tz("Europe/Oslo");
-  console.log("Europe/Oslo : " + osloTimestamp.format());
-  console.log("Europe/Oslo : " + osloTimestamp.format("HH:mm:ss"));
-  console.log("Europe/Oslo : " + osloTimestamp.format("LTS"));
+  var timeZonedTimestamp = moment.utc(momentTimestamp).tz(timezone);
+  console.log("Europe/Oslo : " + timeZonedTimestamp.format());
 
-  return osloTimestamp.format("LT") + EmptySpaceString + emojiClock(momentTimestamp) + EmptySpaceString + ":norway:";
+  console.log("Europe/Oslo Time: " + timeZonedTimestamp.format("HH:mm:ss"));
+  console.log("Europe/Oslo Time: " + timeZonedTimestamp.format("LTS"));
+
+  return timeZonedTimestamp.format("LT");
+}
+
+module.exports = async ({ github, context, core }) => {
+  return getTimestamp(momentTimestamp, TimeZoneEuropeOslo)
+    + EmptySpaceString
+    + emojiClock(momentTimestamp, TimeZoneEuropeOslo)
+    + EmojiDivider
+    + EmojiNorway;
 }
