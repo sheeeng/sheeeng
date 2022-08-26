@@ -41,6 +41,9 @@ function curlMeteorologyData() {
       const meteorologyJsonData = JSON.parse(JSON.stringify(txml.parse(meteorologyXmlData)))
       console.log("LAST JSON : " + JSON.stringify(meteorologyJsonData[1]))
 
+      //TODO: Get moon phase value.
+      //jq '.[] | select(.tagName=="astrodata").children[] | select(.tagName=="location").children[] | select(.tagName=="time").children[] | select(.tagName=="moonphase").attributes | .value'
+
       return meteorologyJsonData
     });
 }
