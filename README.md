@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </h1>
 
 <details align="center">
-    <summary>GitHub Statistics</summary>
+    <summary align="center">GitHub Statistics</summary>
     <p align="center">
         <br/>
     · · <b>─────── ·𖥸· ─────── · ·</b>
