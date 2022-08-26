@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <!-- TODO: Separated stylesheet does not work in GitHub README file. -->
 <!-- <link href="style.css" rel="stylesheet"></link> -->
 
-<h1 align="center"> Hey, I'm Leonard! 👋 </h1>
-
-<p align="center">
+<h1 align="center">
+    Hey, I'm Leonard!
     <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
-        <img src="./images/mona-loading-default.gif" width="64" height="64" alt="Mona List Octocat"/>
+        <img src="./images/mona-loading-default.gif" width="48" height="48" alt="Mona List Octocat"/>
     </a>
-</p>
+</h1>
 
 <details>
     <summary align="center">GitHub Statistics</summary>
