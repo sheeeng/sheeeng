@@ -23,9 +23,11 @@ function emojiClock(momentTimestamp, timezone) {
   // If minute is between 15 and 45, use the emoji clocks
   // that point at minute 30. For example: 🕦 or 🕝.
   let isNearHalfHour = minute > 15 && minute < 45;
-  let thirtyMinutesOrBlank = isNearHalfHour ? "30" : "";
 
-  //TODO: It shows previous hour only after 45-th minutes.
+  // Emoji should show next hour if exceeded 45-th minute.
+  if (minute > 45) { hour++; }
+
+  let thirtyMinutesOrBlank = isNearHalfHour ? "30" : "";
 
   // Return the clock emoji that most resembles the current time
   return `:clock${hour}${thirtyMinutesOrBlank}:`
