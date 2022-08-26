@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <summary align="center">GitHub Statistics</summary>
     <p align="center">
         <br/>
-    · · <b>─────── ·𖥸· ─────── · ·</b>
+        <b>· · ─────── ·𖥸· ─────── · ·</b>
         <br/>
         <img alt = "GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=sheeeng&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"/>
         <br/>
