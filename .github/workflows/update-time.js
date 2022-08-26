@@ -58,6 +58,6 @@ module.exports = async ({ github, context, core }) => {
   return getTimestamp(momentTimestamp, TimeZoneEuropeOslo)
     + EmptySpaceString
     + emojiClock(momentTimestamp, TimeZoneEuropeOslo)
-    + EmojiDivider
+    + EmptySpaceString
     + EmojiNorway;
 }
