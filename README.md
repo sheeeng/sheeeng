@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-    h1, h2, h3, h4 { text-align: center }
-    p { text-align: center }
-    summary { text-align: center }
-</style>
+<link href="style.css" rel="stylesheet"></link>
 
 <h1> Hey, I'm Leonard! 👋 </h1>
 
