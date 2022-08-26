@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     </p>
 </details>
 
+<!--
 <details align="center">
     <summary align="center">Random Joke</summary>
     <p align="center">
@@ -51,6 +52,7 @@ Here are some ideas to get you started:
         <img src="https://readme-jokes.vercel.app/api?hide-border&theme=solarized-light" alt="Random Joke" />
     </p>
 </details>
+-->
 
 <!--
 🌑 :new_moon:
