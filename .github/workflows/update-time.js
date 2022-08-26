@@ -37,13 +37,10 @@ const TimeZoneEuropeOslo = "Europe/Oslo";
 const EmojiNorway = ":norway:";
 
 function getTimestamp(momentTimestamp, timezone) {
-  const momentUtcTimestamp = moment(Date.now())
-  console.log("UTC         : " + momentTimestamp.toISOString());
-
-  var utcTimestamp = moment.utc(momentUtcTimestamp).tz("UTC");
+  var utcTimestamp = moment.utc(momentTimestamp).tz("UTC");
   console.log("UTC         : " + utcTimestamp.format());
 
-  var timeZonedTimestamp = moment.utc(momentUtcTimestamp).tz(timezone);
+  var timeZonedTimestamp = moment.utc(momentTimestamp).tz(timezone);
   console.log("Europe/Oslo : " + timeZonedTimestamp.format());
 
   console.log("Europe/Oslo Time: " + timeZonedTimestamp.format("HH:mm:ss"));
@@ -53,6 +50,9 @@ function getTimestamp(momentTimestamp, timezone) {
 }
 
 module.exports = async ({ github, context, core }) => {
+  const momentTimestamp = moment(Date.now())
+  console.log("UTC         : " + momentTimestamp.toISOString());
+
   return getTimestamp(momentTimestamp, TimeZoneEuropeOslo)
     + EmptySpaceString
     + emojiClock(momentTimestamp, TimeZoneEuropeOslo)
