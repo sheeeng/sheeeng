@@ -1,0 +1,31 @@
+# https://github.com/jasonetco/jasonetco/blob/master/.github/workflows/daily-updates.yml
+
+name: Update GitHub Status
+
+on:
+  schedule:
+    - cron: 44 4 * * * # “At every 04:44.”
+      # - cron: "*/15 * * * *" # “At every 15th minute.”
+  push:
+    branches:
+      - main
+
+jobs:
+  updates:
+    name: Update GitHub Status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - run: npm install --global yarn
+      - run: yarn add github-profile-status moment moment-timezone
+      - uses: actions/github-script@v6
+        env:
+          USER_SCOPE_PERSONAL_ACCESS_TOKEN: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
+        with:
+          github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
+          script: |
+            const script = require('.github/workflows/update-github-status.js')
+            console.log(await script({github, context, core}))
