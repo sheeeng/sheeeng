@@ -29,6 +29,18 @@ Here are some ideas to get you started:
 </h1>
 
 <details align="center">
+    <summary align="center">Listened on Spotify</summary>
+    <p align="center">
+        <br/>
+        <b>♪¸¸.•*¨*•♫♬♫♪◖(● o ●)◗♪♫♬♫•*¨*•.¸¸♪</b>
+        <br/>
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&redirect=true" target="_blank" rel="noopener noreferrer">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Listened on Spotify" />
+        </a>
+    </p>
+</details>
+
+<details align="center">
     <summary align="center">GitHub Statistics</summary>
     <p align="center">
         <br/>
