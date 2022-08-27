@@ -30,7 +30,8 @@ jobs:
 
           <?xml version="1.0" encoding='UTF-8'?>
           <painting>
-            <img src="madonna.jpg" alt='Foligno Madonna, by Raphael'/>
+            <img src="madonna.jpg" alt='Madonna of Foligno, by Raffaello Sanzio da Urbino'
+              description="The Madonna of Foligno is a painting by the Italian High Renaissance painter Raffaello Sanzio da Urbino, executed c. 1511–1512."/>
             <caption>This is Raphael's "Foligno" Madonna, painted in
             <date>1511</date>-<date>1512</date>.</caption>
           </painting>
