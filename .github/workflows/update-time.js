@@ -1,11 +1,11 @@
-const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
-  changeUserStatus (input: $input) {
-    status {
-      emoji
-      message
-    }
-  }
-}`
+// const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
+//   changeUserStatus (input: $input) {
+//     status {
+//       emoji
+//       message
+//     }
+//   }
+// }`
 
 const moment = require('moment-timezone')
 
