@@ -12,6 +12,8 @@ const kaomojis = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣ�
 // const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
 const emojis = ['🤿', '🌊', '🐡', '🐟', '🐠', '🐚', '🪸']
 const dayIndex = (new Date()).getDay()
+console.log("Date : " + new Date())
+console.log("DayIndex : " + dayIndex)
 const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
 
 module.exports = async ({ github, context, core }) => {
