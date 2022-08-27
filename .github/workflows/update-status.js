@@ -12,9 +12,13 @@ const kaomojis = ['٩(◕‿◕)۶', '＼(〇_ｏ)／', '٩(× ×)۶', '(ᗒᗣ�
 // const emojis = ['😊', '🥺', '🤔', '😣', '🐻', '😍', '🥰']
 const emojis = ['🤿', '🌊', '🐡', '🐟', '🐠', '🐚', '🪸']
 const dayIndex = (new Date()).getDay()
+const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
+
 console.log("Date : " + new Date())
 console.log("DayIndex : " + dayIndex)
-const limitedAvailabilityDayNames = new Set(["Saturday", "Sunday"]);
+console.log("DayName : " + dayNames[dayIndex])
+console.log("Kaomoji : " + kaomojis[dayIndex])
+console.log("LimitedAvailability : " + limitedAvailabilityDayNames.has(dayNames[dayIndex]))
 
 module.exports = async ({ github, context, core }) => {
   // https://docs.github.com/en/graphql/reference/input-objects#changeuserstatusinput
