@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<astrodata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.api.met.no/schemas/astrodata-2.0.xsd">
+    <meta licenseurl="https://api.met.no/license_data.html" />
+    <location latitude="59.9" longitude="10.7" height="0">
+        <time date="2022-08-25">
+            <moonphase time="2022-08-25T00:00:00+02:00" value="92.408274737" desc="LOCAL MOON STATE * MOON PHASE= 92.4 (waning crescent)" />
+            <moonshadow time="2022-08-25T00:00:00+02:00" elevation="-62.621040934" azimuth="244.970583503" desc="LOCAL MOON STATE * SHADOW ANGLES (azi=245.0,ele=-62.6)" />
+            <moonposition time="2022-08-25T00:00:00+02:00" elevation="-6.949487153" azimuth="5.355028822" range="404270.721092331" phase="92.408274737" desc="LOCAL MOON POSITION Elv: -6.949 deg, Azi: 5.355, Rng: 404270.7 km" />
+            <solarmidnight time="2022-08-25T01:19:53+02:00" elevation="-19.257553081" desc="LOCAL DIURNAL MINIMUM SOLAR ELEVATION (Min= -19.25755)" />
+            <moonrise time="2022-08-25T02:26:42+02:00" desc="LOCAL DIURNAL MOON RISE" />
+            <sunrise time="2022-08-25T05:55:36+02:00" desc="LOCAL DIURNAL SUN RISE" />
+            <high_moon time="2022-08-25T11:57:07+02:00" elevation="52.21053938" desc="LOCAL DIURNAL MAXIMUM MOON ELEVATION (Max= 52.21054)" />
+            <solarnoon time="2022-08-25T13:18:59+02:00" elevation="40.770572335" desc="LOCAL DIURNAL MAXIMUM SOLAR ELEVATION (Max= 40.77057)" />
+            <sunset time="2022-08-25T20:41:24+02:00" desc="LOCAL DIURNAL SUN SET" />
+            <moonset time="2022-08-25T21:03:22+02:00" desc="LOCAL DIURNAL MOON SET" />
+            <low_moon time="2022-08-25T23:59:59+02:00" elevation="-9.947092327" desc="LOCAL DIURNAL MINIMUM MOON ELEVATION ( -9.94709)" />
+        </time>
+        <time date="2022-08-26">
+            <moonposition time="2022-08-26T00:00:00+02:00" elevation="-10.194473838" azimuth="354.568460592" range="402536.407828093" phase="95.50954655" desc="LOCAL MOON POSITION Elv: -10.194 deg, Azi: 354.568, Rng: 402536.4 km" />
+        </time>
+    </location>
+</astrodata>
