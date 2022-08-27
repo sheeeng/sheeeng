@@ -18,6 +18,7 @@ module.exports = async ({ github, context, core }) => {
   console.log("Date : " + new Date())
   console.log("DayIndex : " + dayIndex)
   console.log("DayName : " + dayNames[dayIndex])
+  console.log("Emoji : " + emojis[dayIndex])
   console.log("Kaomoji : " + kaomojis[dayIndex])
   console.log("LimitedAvailability : " + limitedAvailabilityDayNames.has(dayNames[dayIndex]))
 

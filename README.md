@@ -37,6 +37,9 @@ Here are some ideas to get you started:
         <a href="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&redirect=true" target="_blank" rel="noopener noreferrer">
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Listened on Spotify" />
         </a>
+        <br/>
+            <b>¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸</b>
+        <br/>
     </p>
 </details>
 
@@ -53,6 +56,15 @@ Here are some ideas to get you started:
         <img alt = "GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeng&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
     </p>
 </details>
+
+<p align="center">
+    <br/>
+    <b>ıllıllııllıllııllıllııllıllı</b>
+    <br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="noopener noreferrer">
+        <img alt = "GitHub Top Languages" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Last%20updated&style=flat"/>
+    <a/>
+</p>
 
 <!--
 <details align="center">
