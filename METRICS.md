@@ -11,3 +11,9 @@
 ![Leonard's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sheeeng&theme=nord&no-bg=false&no-frame=false&column=4&row=2)
 
 ![Leonard's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sheeeng&theme=github)
+
+<!--
+https://docs.github.com/en/rest/rate-limit#get-rate-limit-status-for-the-authenticated-user
+
+curl -H "Accept: application/vnd.github+json" -H "Authorization: token ${GITHUB_PERSONAL_ACCESS_TOKEN_USER_SCOPE}" https://api.github.com/rate_limit
+-->
