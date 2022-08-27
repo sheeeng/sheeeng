@@ -16,4 +16,8 @@
 https://docs.github.com/en/rest/rate-limit#get-rate-limit-status-for-the-authenticated-user
 
 curl -H "Accept: application/vnd.github+json" -H "Authorization: token ${GITHUB_PERSONAL_ACCESS_TOKEN_USER_SCOPE}" https://api.github.com/rate_limit
+
+https://docs.github.com/en/rest/overview/resources-in-the-rest-api#oauth2-token-sent-in-a-header
+
+curl --header "Authorization: token ${GITHUB_PERSONAL_ACCESS_TOKEN_USER_SCOPE}" https://api.github.com/user
 -->
