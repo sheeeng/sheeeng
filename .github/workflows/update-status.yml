@@ -19,5 +19,11 @@ jobs:
         with:
           github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
           script: |
+            # console.log("⇓⇓⇓⇓ GitHub ⇓⇓⇓⇓")
+            # console.log(github)
+            # console.log("⇓⇓⇓⇓ Context ⇓⇓⇓⇓")
+            # console.table(context)
+            # console.log("⇓⇓⇓⇓ Core ⇓⇓⇓⇓")
+            # console.table(core)
             const script = require('.github/workflows/update-status.js')
             console.log(await script({github, context, core}))
