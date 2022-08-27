@@ -49,21 +49,22 @@ Here are some ideas to get you started:
         <br/>
         <b>· · ─────── ·𖥸· ─────── · ·</b>
         <br/>
-        <img alt = "GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=sheeeng&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"/>
+        <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=sheeeng&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"/>
         <br/>
         <b>•───────•°•❀•°•───────•</b>
         <br/>
-        <img alt = "GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeng&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
+        <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeng&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
     </p>
 </details>
 
 <p align="center">
     <br/>
-    <b>ıllıllııllıllııllıllııllıllı</b>
+    <b>ıllıllııllıllııllıllı</b>
     <br/>
     <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="noopener noreferrer">
-        <img alt = "GitHub Top Languages" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Last%20updated&style=flat"/>
+        <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
     <a/>
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
 </p>
 
 <!--
