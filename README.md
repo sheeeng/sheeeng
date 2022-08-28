@@ -1,3 +1,4 @@
+
 <!-- # Hey, I'm Leonard! 👋 -->
 
 <!--
@@ -96,3 +97,29 @@ Here are some ideas to get you started:
 🌗 :last_quarter_moon:
 🌘 :waning_crescent_moon:
 -->
+
+<p align="center">
+    Welcome to Oslo! <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>
+    <br/>
+    <br/>
+    Currently, the weather here is <b>16°C</b>, <i>overcast clouds</i>.
+    <br/>
+    <br/>
+    Feels like <b>14°C</b>.
+    <br/>
+    <i>3%</i> humidity with <i>1020 mbar</i> atmospheric air pressure.
+    <br/>
+    <br/>
+    The sun rises at <b>06:02</b> and the sun sets at <b>20:34</b> today.
+<p/>
+
+------------
+<p align="center">
+    This <i>README</i> file is generated about <b>every 3 hours</b>.
+    </br>
+    Last modified at Sunday, 28 August, 21:01 CEST.<br/>
+    <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
+    target="_blank" rel="nofollow noopener noreferrer">
+    Create your own here.</a>
+    </br>
+<p/>
