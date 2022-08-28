@@ -67,9 +67,9 @@ Here are some ideas to get you started:
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
 </p>
 
-<p align="center">
+<div align="center">
     <iframe src="https://free.timeanddate.com/clock/i8h90d42/n187/fn12/fs16/fcffb000/tc282828/pct/ftb/pa8/tt0/th1/ta1/tb4" frameborder="0" width="300" height="53" allowtransparency="true"></iframe>
-<p/>
+<div/>
 
 <!--
 <details align="center">
