@@ -15,3 +15,34 @@
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:sheeeng?chat)
 
 <!-- [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)] -->
+
+---
+
+<!-- https://raw.githubusercontent.com/samujjwaal/samujjwaal/master/README.md -->
+
+<!--
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leonard.sheng.sheng.lee@gmail.com "Hello from GitHub!")
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheeeng/ "Connect on LinkedIn.")
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/sheeeng "Contact on Telegram.")
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sheeeng "Connect on Twitter.")
+
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/sheeeng "Connect on Messenger.")
+
+[![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sheeeng)
+
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/sheeeng?tab=profile)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sheeeng/ "Connect on Instagram")
+
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/sheeeng)
+
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/sheeeng?si=b5d4c8bb33ca410c "Connect on Spotify.")
+
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/sheeengDeyJEDI/playlists "Connect on YouTube.")
+
+[![Reddit Badge](https://img.shields.io/badge/-u/Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/sheeeng/ "Connect on Reddit.") -->
+
+---
