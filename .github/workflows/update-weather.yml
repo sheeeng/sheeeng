@@ -1,0 +1,34 @@
+name: Update Weather
+
+on:
+  schedule:
+    - cron: 0 */3 * * * # “At minute 0 past every 3rd hour.”
+  push:
+    branches:
+      - main
+
+jobs:
+  updates:
+    name: Update Status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm install --global yarn
+      - run: yarn add moment moment-timezone mustache node-fetch@2.6.1 # https://stackoverflow.com/a/70541151
+      - uses: actions/github-script@v6
+        env:
+          OPEN_WEATHER_KEY: ${{secrets.OPEN_WEATHER_KEY}}
+        with:
+          github-token: ${{ secrets.USER_SCOPE_PERSONAL_ACCESS_TOKEN }}
+          script: |
+            const script = require('.github/workflows/update-weather.js')
+            console.log(await script({github, context, core}))
+      - run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git add README.md
+          git commit --message "automated commit"
+          git push

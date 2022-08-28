@@ -20,4 +20,9 @@ curl -H "Accept: application/vnd.github+json" -H "Authorization: token ${GITHUB_
 https://docs.github.com/en/rest/overview/resources-in-the-rest-api#oauth2-token-sent-in-a-header
 
 curl --header "Authorization: token ${GITHUB_PERSONAL_ACCESS_TOKEN_USER_SCOPE}" https://api.github.com/user
+
+curl --location \
+  --request GET \
+  "https://api.openweathermap.org/data/2.5/forecast?q=Oslo,NO&appid=${OPEN_WEATHER_KEY}&units=metric" \
+  --header 'Content-Type: application/json' | jq | pbcopy
 -->
