@@ -61,11 +61,15 @@ Here are some ideas to get you started:
     <br/>
     <b>ıllıllııllıllııllıllı</b>
     <br/>
-    <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="nofollow noopener noreferrer">
         <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
     <a/>
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
 </p>
+
+<p align="center">
+    <iframe src="https://free.timeanddate.com/clock/i8h90d42/n187/fn12/fs16/fcffb000/tc282828/pct/ftb/pa8/tt0/th1/ta1/tb4" frameborder="0" width="300" height="53" allowtransparency="true"></iframe>
+<p/>
 
 <!--
 <details align="center">
