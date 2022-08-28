@@ -58,16 +58,6 @@ Here are some ideas to get you started:
     </p>
 </details>
 
-<p align="center">
-    <br/>
-    <b>ıllıllııllıllııllıllı</b>
-    <br/>
-    <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="nofollow noopener noreferrer">
-        <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
-    <a/>
-    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
-</p>
-
 <!-- TODO: Embed iframe properly in Markdown? -->
 <!--
 <div align="center">
@@ -113,13 +103,20 @@ Here are some ideas to get you started:
     The sun rises at <b>06:02</b> and the sun sets at <b>20:34</b> today.
 <p/>
 
-------------
+---
+
 <p align="center">
-    This <i>README</i> file is generated about <b>every 3 hours</b>.
+    This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
+    target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    Last modified at Sunday, 28 August, 21:01 CEST.<br/>
-    <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
-    target="_blank" rel="nofollow noopener noreferrer">
-    Create your own here.</a>
-    </br>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 28 August, 21:01 CEST.<br/>
 <p/>
+
+<p align="center">
+    <b>ıllıllııllıllııllıllı</b>
+    <br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="nofollow noopener noreferrer">
+        <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
+    <a/>
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
+</p>
