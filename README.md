@@ -67,9 +67,30 @@ Here are some ideas to get you started:
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
 </p>
 
+UTC time: <span id="UTC_za00"></span><br/>
+New York sunrise time: <span id="New_York_z161"></span><br/>
+Tokyo sunrise time: <span id="Tokyo_z444"></span><br/>
+Find the <a href="https://time.is/" id="time_is_link" rel="nofollow">current time for any location or time zone on Time.is!</a>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({
+	UTC_za00 : {},
+	New_York_z161 : {
+		template: "SUN",
+		sun_format: "srhour:srminute",
+		coords: "40.71427,-74.00597"
+		},
+	Tokyo_z444 : {
+		coords: "59.33258,18.06490"
+		}
+	});
+</script>
+
+<!--
 <div align="center">
     <iframe src="https://free.timeanddate.com/clock/i8h90d42/n187/fn12/fs16/fcffb000/tc282828/pct/ftb/pa8/tt0/th1/ta1/tb4" frameborder="0" width="300" height="53" allowtransparency="true"></iframe>
 <div/>
+-->
 
 <!--
 <details align="center">
