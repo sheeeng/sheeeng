@@ -30,6 +30,20 @@ Here are some ideas to get you started:
 </h1>
 
 <details align="center">
+    <summary align="center">GitHub Statistics</summary>
+    <p align="center">
+        <br/>
+        <b>· · ─────── ·𖥸· ─────── · ·</b>
+        <br/>
+        <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=sheeeng&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"/>
+        <br/>
+        <b>•───────•°•❀•°•───────•</b>
+        <br/>
+        <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeng&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
+    </p>
+</details>
+
+<details align="center">
     <summary align="center">Spotify History</summary>
     <p align="center">
         <br/>
@@ -41,20 +55,6 @@ Here are some ideas to get you started:
         <br/>
             <b>¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸</b>
         <br/>
-    </p>
-</details>
-
-<details align="center">
-    <summary align="center">GitHub Statistics</summary>
-    <p align="center">
-        <br/>
-        <b>· · ─────── ·𖥸· ─────── · ·</b>
-        <br/>
-        <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=sheeeng&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"/>
-        <br/>
-        <b>•───────•°•❀•°•───────•</b>
-        <br/>
-        <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeng&hide=html,&hide_border=true&title_color=5391FE&text_color=555"/>
     </p>
 </details>
 
@@ -89,14 +89,14 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> Meteorology / Oslo <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> Weather Forecast / Oslo <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>
     <br/>
     <br/>
-    Currently, <b>15°C</b>, <i>overcast clouds</i>. Feels like <b>12°C</b>.
+    Currently, <b>14°C</b>, <i>overcast clouds</i>. Feels like <b>12°C</b>.
     <br/>
     The sun rises at <b>06:02</b> and the sun sets at <b>20:34</b> today.
     <br/>
-    Temperature ranges from <b>14°C</b> to <b>16°C</b>.
+    Temperature ranges from <b>13°C</b> to <b>15°C</b>.
     <br/>
     <del><i>1%</i> humidity with</del> <i>1021 mbar</i> atmospheric pressure on the sea level.
 <p/>
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 28 August, 21:50 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 28 August, 21:58 CEST.<br/>
     </br>
 <p/>
 
