@@ -23,9 +23,11 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
+      console.table(r);
       DATA.city_temperature = Math.round(r.main.temp);
+      DATA.city_minimum_temperature = Math.round(r.main.temp_min);
+      DATA.city_maximum_temperature = Math.round(r.main.temp_max);
       DATA.city_feels_like = Math.round(r.main.feels_like);
-      console.log("MAIIIN! " + r.main);
       DATA.city_humidity = Math.round(r.main.humidity);
       DATA.city_pressure = Math.round(r.main.pressure);
       DATA.city_weather = r.weather[0].description;
