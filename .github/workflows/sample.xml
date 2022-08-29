@@ -2,21 +2,21 @@
 <astrodata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.api.met.no/schemas/astrodata-2.0.xsd">
     <meta licenseurl="https://api.met.no/license_data.html" />
     <location latitude="59.9" longitude="10.7" height="0">
-        <time date="2022-08-25">
-            <moonphase time="2022-08-25T00:00:00+02:00" value="92.408274737" desc="LOCAL MOON STATE * MOON PHASE= 92.4 (waning crescent)" />
-            <moonshadow time="2022-08-25T00:00:00+02:00" elevation="-62.621040934" azimuth="244.970583503" desc="LOCAL MOON STATE * SHADOW ANGLES (azi=245.0,ele=-62.6)" />
-            <moonposition time="2022-08-25T00:00:00+02:00" elevation="-6.949487153" azimuth="5.355028822" range="404270.721092331" phase="92.408274737" desc="LOCAL MOON POSITION Elv: -6.949 deg, Azi: 5.355, Rng: 404270.7 km" />
-            <solarmidnight time="2022-08-25T01:19:53+02:00" elevation="-19.257553081" desc="LOCAL DIURNAL MINIMUM SOLAR ELEVATION (Min= -19.25755)" />
-            <moonrise time="2022-08-25T02:26:42+02:00" desc="LOCAL DIURNAL MOON RISE" />
-            <sunrise time="2022-08-25T05:55:36+02:00" desc="LOCAL DIURNAL SUN RISE" />
-            <high_moon time="2022-08-25T11:57:07+02:00" elevation="52.21053938" desc="LOCAL DIURNAL MAXIMUM MOON ELEVATION (Max= 52.21054)" />
-            <solarnoon time="2022-08-25T13:18:59+02:00" elevation="40.770572335" desc="LOCAL DIURNAL MAXIMUM SOLAR ELEVATION (Max= 40.77057)" />
-            <sunset time="2022-08-25T20:41:24+02:00" desc="LOCAL DIURNAL SUN SET" />
-            <moonset time="2022-08-25T21:03:22+02:00" desc="LOCAL DIURNAL MOON SET" />
-            <low_moon time="2022-08-25T23:59:59+02:00" elevation="-9.947092327" desc="LOCAL DIURNAL MINIMUM MOON ELEVATION ( -9.94709)" />
+        <time date="2022-08-29">
+            <moonphase time="2022-08-29T00:00:00+02:00" value="5.079650805" desc="LOCAL MOON STATE * MOON PHASE= 5.1 (waxing crescent)" />
+            <moonshadow time="2022-08-29T00:00:00+02:00" elevation="-71.440659599" azimuth="94.78396002" desc="LOCAL MOON STATE * SHADOW ANGLES (azi=94.8,ele=-71.4)" />
+            <moonposition time="2022-08-29T00:00:00+02:00" elevation="-18.360521208" azimuth="320.010797327" range="394565.436255145" phase="5.079650805" desc="LOCAL MOON POSITION Elv: -18.361 deg, Azi: 320.011, Rng: 394565.4 km" />
+            <solarmidnight time="2022-08-29T01:18:45+02:00" elevation="-20.656012326" desc="LOCAL DIURNAL MINIMUM SOLAR ELEVATION (Min= -20.65601)" />
+            <low_moon time="2022-08-29T02:43:47+02:00" elevation="-25.197163311" desc="LOCAL DIURNAL MINIMUM MOON ELEVATION (Min= -25.19716)" />
+            <sunrise time="2022-08-29T06:05:05+02:00" desc="LOCAL DIURNAL SUN RISE" />
+            <moonrise time="2022-08-29T08:18:51+02:00" desc="LOCAL DIURNAL MOON RISE" />
+            <solarnoon time="2022-08-29T13:17:49+02:00" elevation="39.366733251" desc="LOCAL DIURNAL MAXIMUM SOLAR ELEVATION (Max= 39.36673)" />
+            <high_moon time="2022-08-29T14:51:37+02:00" elevation="32.11445222" desc="LOCAL DIURNAL MAXIMUM MOON ELEVATION (Max= 32.11445)" />
+            <sunset time="2022-08-29T20:29:39+02:00" desc="LOCAL DIURNAL SUN SET" />
+            <moonset time="2022-08-29T21:15:11+02:00" desc="LOCAL DIURNAL MOON SET" />
         </time>
-        <time date="2022-08-26">
-            <moonposition time="2022-08-26T00:00:00+02:00" elevation="-10.194473838" azimuth="354.568460592" range="402536.407828093" phase="95.50954655" desc="LOCAL MOON POSITION Elv: -10.194 deg, Azi: 354.568, Rng: 402536.4 km" />
+        <time date="2022-08-30">
+            <moonposition time="2022-08-30T00:00:00+02:00" elevation="-19.99038577" azimuth="307.589722429" range="391343.591029582" phase="8.363807903" desc="LOCAL MOON POSITION Elv: -19.990 deg, Azi: 307.590, Rng: 391343.6 km" />
         </time>
     </location>
 </astrodata>

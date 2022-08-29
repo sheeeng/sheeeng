@@ -17,7 +17,15 @@ jobs:
         with:
           node-version: 18
       - run: npm install --global yarn
-      - run: yarn add moment moment-timezone mustache node-fetch@2.6.1 # https://stackoverflow.com/a/70541151
+      - run: |
+          # https://stackoverflow.com/a/70541151
+          yarn add \
+            mustache \
+            node-fetch@2.6.1 \
+            xml-js \
+            --flat \
+            --no-lockfile \
+            --verbose
       - uses: actions/github-script@v6
         env:
           OPEN_WEATHER_KEY: ${{secrets.OPEN_WEATHER_KEY}}
