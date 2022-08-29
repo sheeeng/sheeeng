@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
+    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     Feels like <b>15°C</b>.
     <br/>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
+    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     After sunset at <b>20:31</b>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
     <br/>
