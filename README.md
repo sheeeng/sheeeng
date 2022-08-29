@@ -102,7 +102,7 @@ Here are some ideas to get you started:
     <br/>
     <b>52%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
     <br/>
-    <b>Meteorology data obtained on <i>Monday, 29 August 2022, 11:00:56.000 CEST mbar</i>.
+    <small>Monday, 29 August 2022, 11:08:23 CEST</small>
 <p/>
 
 ---
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 11:02 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 11:12 CEST.<br/>
     </br>
 <p/>
 
