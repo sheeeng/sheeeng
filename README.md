@@ -92,13 +92,13 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> Weather Forecast / Oslo <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>
     <br/>
     <br/>
-    Currently, <b>13°C</b>, <i>overcast clouds</i>. Feels like <b>11°C</b>.
+    Currently, <b>12°C</b>, <i>overcast clouds</i>. Feels like <b>10°C</b>.
     <br/>
-    The sun rises at <b>06:02</b> and the sun sets at <b>20:34</b> today.
+    The sun rises at <b>06:04</b> and the sun sets at <b>20:31</b> today.
     <br/>
-    Temperature ranges from <b>12°C</b> to <b>14°C</b>.
+    Temperature ranges from <b>11°C</b> to <b>13°C</b>.
     <br/>
-    <del><i>1%</i> humidity with</del> <i>1021 mbar</i> atmospheric pressure on the sea level.
+    <del><i>1%</i> humidity with</del> <i>1023 mbar</i> atmospheric pressure on the sea level.
 <p/>
 
 ---
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 28 August, 23:14 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 03:48 CEST.<br/>
     </br>
 <p/>
 
