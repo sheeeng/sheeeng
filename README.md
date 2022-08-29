@@ -102,7 +102,7 @@ Here are some ideas to get you started:
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Monday, 29 August 2022, 20:37:20 CEST</small>
+    <small>Monday, 29 August 2022, 20:33:37 CEST</small>
     </p>
 </details>
 
@@ -111,13 +111,13 @@ Here are some ideas to get you started:
 <p align="center">
     Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    After sunset at <b>20:31</b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
+    After sunset at <b>20:31</b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
     <br/>
     <br/>
     This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:37 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:38 CEST.<br/>
     </br>
 <p/>
 
