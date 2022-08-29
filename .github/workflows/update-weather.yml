@@ -9,7 +9,7 @@ on:
 
 jobs:
   updates:
-    name: Update Status
+    name: Update Weather
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
