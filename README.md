@@ -94,17 +94,17 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>14°C</b>.
+    Feels like <b>13°C</b>.
     <br/>
     Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>14°C</b> to <b>16°C</b>.
+    Temperature ranges from <b>13°C</b> to <b>16°C</b>.
     <br/>
-    <b>45%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
+    <b>43%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Monday, 29 August 2022, 20:43:11 CEST</small>
+    <small>Monday, 29 August 2022, 20:58:20 CEST</small>
     </p>
 </details>
 
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:52 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 21:00 CEST.<br/>
     </br>
 <p/>
 
@@ -132,5 +132,9 @@ Here are some ideas to get you started:
     <a/>
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
     <br/>
-    Your recent visit meant so much. Wishing you all the best, now and always. Take care! 😊
+    Your recent visit meant so much.
+    <br/>
+    Wishing you all the best, now and always.
+    <br/>
+    🖖 <a href="https://intl.startrek.com/news/live-long-and-prosper-jewish-history-month" target="_blank" rel="nofollow noopener noreferrer">“Live Long and Prosper.”</a> 🖖
 </p>
