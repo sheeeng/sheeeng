@@ -91,7 +91,7 @@ Here are some ideas to get you started:
     <br/>
     <b>48%</b> humidity. <b>1023 mbar</b> atmospheric pressure.
     <br/>
-    When it's dark, the <b>Waxing Crescent%</b> Moon will appear like :waxing_crescent_moon:.
+    When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
     <small>Monday, 29 August 2022, 20:08:28 CEST</small>
     </p>
@@ -102,10 +102,12 @@ Here are some ideas to get you started:
 <p align="center">
     Currently, <b>17°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
     <br/>
+    After sunset at <b>20:31</b>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
+    <br/>
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:11 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:16 CEST.<br/>
     </br>
 <p/>
 
