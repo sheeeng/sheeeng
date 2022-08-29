@@ -20,7 +20,6 @@ let DATA = {
 async function setWeatherInformation() {
   openWeatherHeaders = new Headers({
     'Content-Type': 'application/json',
-    'Content-Length': content.length.toString(),
   });
 
   await fetch(
