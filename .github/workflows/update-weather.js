@@ -1,5 +1,6 @@
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
+const { Headers } = require('node-fetch');
 const fs = require('fs');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
@@ -17,9 +18,14 @@ let DATA = {
 };
 
 async function setWeatherInformation() {
+  openWeatherHeaders = new Headers({
+    'Content-Type': 'application/json',
+    'Content-Length': content.length.toString(),
+  });
+
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=Oslo,NO&units=metric&appid=${process.env.OPEN_WEATHER_KEY}`,
-    { method: 'GET', headers: { 'Content-Type': 'application/json' } }
+    { method: 'GET', headers: openWeatherHeaders }
   )
     .then(r => r.json())
     .then(r => {
