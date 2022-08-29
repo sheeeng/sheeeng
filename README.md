@@ -29,6 +29,15 @@ Here are some ideas to get you started:
     </a>
 </h1>
 
+<p align="center">
+    Welcome! Leonard is very humbled by your visit!
+    </br>
+    Leonard coaches various companies on build automation and plumbing Jenkins pipelines.
+    All things configuration as code and cloud infrastructure are his main interests these days.
+    Originally, he comes from <b>Sarawak</b>, <img alt="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>. He immersed himself with diving in the tropics.
+    Leonard claims that he enjoys <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> for its picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords.
+</p>
+
 <details align="center">
     <summary align="center">GitHub Statistics</summary>
     <p align="center">
@@ -81,26 +90,26 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>15°C</b>.
+    Feels like <b>14°C</b>.
     <br/>
     Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>15°C</b> to <b>18°C</b>.
+    Temperature ranges from <b>14°C</b> to <b>16°C</b>.
     <br/>
-    <b>46%</b> humidity. <b>1023 mbar</b> atmospheric pressure.
+    <b>45%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Monday, 29 August 2022, 20:17:46 CEST</small>
+    <small>Monday, 29 August 2022, 20:33:37 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     After sunset at <b>20:31</b>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
     <br/>
@@ -108,7 +117,7 @@ Here are some ideas to get you started:
     This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:21 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:36 CEST.<br/>
     </br>
 <p/>
 
