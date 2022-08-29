@@ -89,16 +89,16 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> Weather Forecast / Oslo <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>
+    Meteorology / Weather Forecast
     <br/>
     <br/>
-    Currently, <b>13°C</b>, <i>clear sky</i>. Feels like <b>11°C</b>.
+    Currently, <b>15°C</b>, <i>clear sky</i> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>. Feels like <b>13°C</b>.
     <br/>
-    The sun rises at <b>06:04</b> and the sun sets at <b>20:31</b> today.
+    Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>12°C</b> to <b>13°C</b>.
+    Temperature ranges from <b>13°C</b> to <b>15°C</b>.
     <br/>
-    <del><i>27%</i> humidity with</del> <i>1025 mbar</i> atmospheric pressure on the sea level.
+    <i>49%</i> humidity with <i>1025 mbar</i> atmospheric pressure on the sea level.
 <p/>
 
 ---
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 08:44 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 09:49 CEST.<br/>
     </br>
 <p/>
 
