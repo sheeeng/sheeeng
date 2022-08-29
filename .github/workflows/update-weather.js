@@ -18,8 +18,7 @@ let DATA = {
   }),
 };
 
-async function setWeatherInformation() {
-
+async function fetchMeteorologyData() {
   meteorologyHeaders = new Headers({
     'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
   });
@@ -30,8 +29,11 @@ async function setWeatherInformation() {
 
   let dataAsJson = {};
 
+  const currentDate = new Date().toISOString().substring(0, 10);
+  console.log("Current Date: " + currentDate);
+
   await fetch(
-    'https://api.met.no/weatherapi/sunrise/2.0/?lat=59.933333&lon=10.716667&date=$(date "+%Y-%m-%d")&offset=+02:00',
+    `https://api.met.no/weatherapi/sunrise/2.0/?lat=59.933333&lon=10.716667&date=${currentDate}&offset=+02:00`,
     { method: 'GET', headers: meteorologyHeaders }
   )
     .then(response => response.text())
@@ -57,13 +59,14 @@ async function setWeatherInformation() {
         .filter(obj => { return obj.name == 'time'; })[0].elements
         .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value
       )
-    })
-    .then(() => {
-      DATA.moonphase_value = Math.round(dataAsJson.elements
+
+      DATA.moonphase_value = dataAsJson.elements
         .filter(obj => { return obj.name == 'astrodata'; })[0].elements
         .filter(obj => { return obj.name == 'location'; })[0].elements
         .filter(obj => { return obj.name == 'time'; })[0].elements
-        .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value);
+        .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value;
+
+      console.log("GRRR: " + DATA.moonphase_value)
 
       // echo "⇓⇓⇓⇓⇓⇓⇓⇓ Moon Phase ⇓⇓⇓⇓⇓⇓⇓⇓
       // 🌑 :new_moon:                   100/0
@@ -80,6 +83,11 @@ async function setWeatherInformation() {
       // 25..50: "waxing gibbous"
       // 50..75: "waning gibbous"
       // 75..100: "waning crescent"
+
+      function between(value, first, last) {
+        let lower = Math.min(first, last), upper = Math.max(first, last);
+        return value > lower && value < upper;
+      }
 
       if (Math.round(DATA.moonphase_value) == 0
         || Math.round(DATA.moonphase_value) == 100) {
@@ -117,13 +125,11 @@ async function setWeatherInformation() {
       } else {
         console.error('⚠️ Unknown Moonphase ⚠️ : ' + DATA.moonphase_value);
       }
+
     });
+}
 
-  function between(value, first, last) {
-    let lower = Math.min(first, last), upper = Math.max(first, last);
-    return value > lower && value < upper;
-  }
-
+async function fetchOpenWeatherData() {
   openWeatherHeaders = new Headers({
     'Content-Type': 'application/json',
   });
@@ -177,6 +183,7 @@ async function generateReadMe() {
 }
 
 module.exports = async ({ github, context, core }) => {
-  await setWeatherInformation();
+  await fetchMeteorologyData();
+  await fetchOpenWeatherData();
   await generateReadMe();
 }
