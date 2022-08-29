@@ -77,41 +77,34 @@ Here are some ideas to get you started:
 </details>
 -->
 
-<!--
-🌑 :new_moon:
-🌒 :waxing_crescent_moon:
-🌓 :first_quarter_moon:
-🌔 :moon: :waxing_gibbous_moon:
-🌕 :full_moon:
-🌖 :waning_gibbous_moon:
-🌗 :last_quarter_moon:
-🌘 :waning_crescent_moon:
--->
-
-<p align="center">
-    Meteorology / Weather Forecast
+<details align="center">
+    <summary align="center">Meteorology</summary>
+    <p align="center">
     <br/>
+    Currently, <b>17°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
     <br/>
-    Currently, <b>21°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
-    <br/>
-    Feels like <b>21°C</b>.
+    Feels like <b>15°C</b>.
     <br/>
     Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>18°C</b> to <b>23°C</b>.
+    Temperature ranges from <b>16°C</b> to <b>18°C</b>.
     <br/>
-    <b>47%</b> humidity. <b>1023 mbar</b> atmospheric pressure.
+    <b>48%</b> humidity. <b>1023 mbar</b> atmospheric pressure.
     <br/>
-    <small>Monday, 29 August 2022, 17:15:55 CEST</small>
-<p/>
+    When it's dark, the <b>Waxing Crescent%</b> Moon will appear like :waxing_crescent_moon:.
+    <br/>
+    <small>Monday, 29 August 2022, 20:06:00 CEST</small>
+    </p>
+</details>
 
 ---
 
 <p align="center">
+    Currently, <b>17°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 17:15 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 20:10 CEST.<br/>
     </br>
 <p/>
 
