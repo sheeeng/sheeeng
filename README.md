@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     </br>
     Leonard coaches various companies on build automation and plumbing Jenkins pipelines.
     All things configuration as code and cloud infrastructure are his main interests these days.
-    Originally, he comes from <b>Sarawak</b>, <img alt="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>. He immersed himself with diving in the tropics.
-    Leonard claims that he enjoys <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> for its picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords.
+    Originally, he comes from <b>Sarawak</b>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>. He immersed himself with diving in the tropics.
+    Leonard claims that he enjoys <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> for its picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords.
 </p>
 
 <details align="center">
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     Feels like <b>14°C</b>.
     <br/>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>15°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     After sunset at <b>20:31</b> in Oslo, <img alt="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
     <br/>
