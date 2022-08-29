@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">
     <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
-        <img src="./images/mona-loading-default-flipped.gif" width="48" height="48" alt="Mona List Octocat"/>
+        <img src="./images/mona-loading-default-flipped.gif" width="32" height="32" alt="Mona List Octocat"/>
     </a>
     Hey, I'm Leonard!
     <a href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
-        <img src="./images/mona-loading-default.gif" width="48" height="48" alt="Mona List Octocat"/>
+        <img src="./images/mona-loading-default.gif" width="32" height="32" alt="Mona List Octocat"/>
     </a>
 </h1>
 
@@ -92,13 +92,17 @@ Here are some ideas to get you started:
     Meteorology / Weather Forecast
     <br/>
     <br/>
-    Currently, <b>15°C</b>, <i>clear sky</i> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>. Feels like <b>13°C</b>.
+    Currently, <b>15°C</b>, <b><i>clear sky</i></b> in Oslo, <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/>.
+    <br/>
+    Feels like <b>14°C</b>.
     <br/>
     Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>13°C</b> to <b>15°C</b>.
+    Temperature ranges from <b>14°C</b> to <b>15°C</b>.
     <br/>
-    <i>49%</i> humidity with <i>1025 mbar</i> atmospheric pressure on the sea level.
+    <i>49%</i> humidity.
+    <br/>
+    <i>1025 mbar</i> atmospheric pressure on the sea level.
 <p/>
 
 ---
@@ -107,7 +111,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 09:49 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 09:56 CEST.<br/>
     </br>
 <p/>
 
