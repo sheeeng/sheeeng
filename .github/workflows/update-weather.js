@@ -46,7 +46,7 @@ async function setWeatherInformation() {
         hour: '2-digit',
         minute: '2-digit',
         second: '2-digit',
-        fractionalSecondDigits: '3',
+        fractionalSecondDigits: '0',
         timeZone: 'Europe/Oslo',
         timeZoneName: 'short',
       });
