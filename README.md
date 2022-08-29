@@ -98,11 +98,9 @@ Here are some ideas to get you started:
     <br/>
     Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
     <br/>
-    Temperature ranges from <b>14°C</b> to <b>15°C</b>.
+    Temperature ranges from <b>13°C</b> to <b>15°C</b>.
     <br/>
-    <i>49%</i> humidity.
-    <br/>
-    <i>1025 mbar</i> atmospheric pressure on the sea level.
+    <b>50%</b> humidity. <b>1025 mbar</b> atmospheric pressure.
 <p/>
 
 ---
@@ -111,7 +109,7 @@ Here are some ideas to get you started:
     This <i>README</i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 09:56 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 10:02 CEST.<br/>
     </br>
 <p/>
 
