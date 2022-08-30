@@ -92,34 +92,34 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>11°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>10°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>8°C</b>.
+    Feels like <b>9°C</b>.
     <br/>
-    Sunrise at <b>06:04</b>. Sunset at <b>20:31</b>.
+    Sunrise at <b>06:07</b>. Sunset at <b>20:28</b>.
     <br/>
-    Temperature ranges from <b>9°C</b> to <b>13°C</b>.
+    Temperature ranges from <b>8°C</b> to <b>11°C</b>.
     <br/>
-    <b>1%</b> humidity. <b>1025 mbar</b> atmospheric pressure.
+    <b>1%</b> humidity. <b>1027 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Monday, 29 August 2022, 23:13:32 CEST</small>
+    <small>Tuesday, 30 August 2022, 03:45:30 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    Currently, <b>11°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>10°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    After sunset at <b>20:31</b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
+    After sunset at <b>20:28</b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears in the dark.
     <br/>
     <br/>
     This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 29 August, 23:13 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 03:48 CEST.<br/>
     </br>
 <p/>
 
