@@ -93,32 +93,32 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>17°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>16°C</b> with 14 hours, 19 minutes, and 14 seconds daylight.
+    Feels like <b>16°C</b>. <b>14 hours, 19 minutes, and 14 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:07</b>. Sunset at <b>20:28</b>.
     <br/>
     Temperature ranges from <b>14°C</b> to <b>20°C</b>.
     <br/>
-    <b>51%</b> humidity. <b>1028 mbar</b> atmospheric pressure.
+    <b>52%</b> humidity. <b>1027 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Tuesday, 30 August 2022, 12:29:56 CEST</small>
+    <small>Tuesday, 30 August 2022, 12:44:27 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    Currently, <b>17°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> with 14 hours, 19 minutes, and 14 seconds daylight.
+    Currently, <b>17°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> with <b><i>14 hours, 19 minutes, and 14 seconds</i></b> daylight.
     <br/>
-    Sunset at <b>20:28</b> with <b>Waxing Crescent</b> Moon :waxing_crescent_moon: in the night sky.
+    Sunset at <b>20:28</b> with <b>Waxing Crescent</b> Moon :waxing_crescent_moon:.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:36 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:47 CEST.<br/>
     </br>
 <p/>
 
