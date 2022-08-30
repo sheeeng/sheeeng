@@ -112,13 +112,13 @@ Here are some ideas to get you started:
 <p align="center">
     Currently, <b>17°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/> with 14 hours, 19 minutes, and 14 seconds daylight.
     <br/>
-    Sunset at <b>20:28</b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>, then <b>Waxing Crescent</b> Moon :waxing_crescent_moon: appears.
+    Sunset at <b>20:28</b> with <b>Waxing Crescent</b> Moon :waxing_crescent_moon: in the night sky.
     <br/>
     <br/>
-    This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
+    This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:29 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:36 CEST.<br/>
     </br>
 <p/>
 
