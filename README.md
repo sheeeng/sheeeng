@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </br>
     <blockquote>
     Leonard coaches various companies on build automation and plumbing Jenkins pipelines. All things configuration as code and cloud infrastructure are his main interests these days.
-    He originally hails from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/> <code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats">The City of Cats<a/> in <b>Sarawak</b>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>, and currently lives in the outskirts of Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    He originally hails from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats">The City of Cats <code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code><a/> in <b>Sarawak</b>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>, and currently lives in the outskirts of Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     He claims that he enjoys Scandinavian picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords. He loves to immerse himself with diving in the tropics.
     </blockquote>
 </p>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Tuesday, 30 August 2022, 09:53:44 CEST</small>
+    <small>Tuesday, 30 August 2022, 09:53:04 CEST</small>
     </p>
 </details>
 
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
     This <i><a href="https://github.com/sheeeng/sheeeng/blob/main/README.md" target="_blank" rel="nofollow noopener noreferrer">README</a></i> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 09:59 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 10:03 CEST.<br/>
     </br>
 <p/>
 
