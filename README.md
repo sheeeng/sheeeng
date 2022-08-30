@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-    Welcome! <code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code>
+    Welcome! <a href="https://www.nationalgeographic.com/travel/article/the-fascinating-history-behind-the-popular-waving-lucky-cat" target="_blank" rel="nofollow noopener noreferrer"><code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code></a>
     </br>
     <blockquote>
     Leonard coaches various companies on build automation and plumbing Jenkins pipelines. All things configuration as code and cloud infrastructure are his main interests these days.
@@ -99,11 +99,11 @@ Here are some ideas to get you started:
     <br/>
     Temperature ranges from <b>14°C</b> to <b>20°C</b>.
     <br/>
-    <b>52%</b> humidity. <b>1027 mbar</b> atmospheric pressure.
+    <b>51%</b> humidity. <b>1027 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Tuesday, 30 August 2022, 12:44:27 CEST</small>
+    <small>Tuesday, 30 August 2022, 12:52:44 CEST</small>
     </p>
 </details>
 
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:47 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 30 August, 12:53 CEST.<br/>
     </br>
 <p/>
 
