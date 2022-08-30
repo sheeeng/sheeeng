@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- <link href="style.css" rel="stylesheet"></link> -->
 
 <h1 align="center">
-    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
+    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="nofollow noopener noreferrer">
         <img src="./images/mona-loading-default-flipped.gif" width="32" height="32" alt="Mona List Octocat"/>
     </a>
     Hey, I'm Leonard!
-    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="noopener noreferrer">
+    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-loading-default.gif" target="_blank" rel="nofollow noopener noreferrer">
         <img src="./images/mona-loading-default.gif" width="32" height="32" alt="Mona List Octocat"/>
     </a>
 </h1>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
         <br/>
         <b>♪¸¸.•*¨*•♫♬♫♪◖(● o ●)◗♪♫♬♫•*¨*•.¸¸♪</b>
         <br/>
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&redirect=true" target="_blank" rel="noopener noreferrer">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&redirect=true" target="_blank" rel="nofollow noopener noreferrer">
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=sheeeng&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify History" />
         </a>
         <br/>
