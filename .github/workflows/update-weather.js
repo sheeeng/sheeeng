@@ -3,8 +3,10 @@ const fetch = require('node-fetch');
 const { Headers } = require('node-fetch');
 const fs = require('fs');
 const convert = require('xml-js');
+const { Duration, DateTime } = require("luxon");
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
+// const EuropeOsloTimeZone = 'Europe/Oslo';
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
@@ -65,8 +67,7 @@ async function fetchMeteorologyData() {
         .filter(obj => { return obj.name == 'location'; })[0].elements
         .filter(obj => { return obj.name == 'time'; })[0].elements
         .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value;
-
-      console.log("GRRR: " + DATA.moonphase_value)
+      console.log("Moonphase Value: " + DATA.moonphase_value)
 
       // echo "⇓⇓⇓⇓⇓⇓⇓⇓ Moon Phase ⇓⇓⇓⇓⇓⇓⇓⇓
       // 🌑 :new_moon:                   100/0
@@ -126,6 +127,34 @@ async function fetchMeteorologyData() {
         console.error('⚠️ Unknown Moonphase ⚠️ : ' + DATA.moonphase_value);
       }
 
+
+      DATA.sunrise_time = dataAsJson.elements
+        .filter(obj => { return obj.name == 'astrodata'; })[0].elements
+        .filter(obj => { return obj.name == 'location'; })[0].elements
+        .filter(obj => { return obj.name == 'time'; })[0].elements
+        .filter(obj => { return obj.name == 'sunrise'; })[0].attributes.time;
+      console.log("Sunrise: " + DATA.sunrise_time)
+
+      DATA.sunset_time = dataAsJson.elements
+        .filter(obj => { return obj.name == 'astrodata'; })[0].elements
+        .filter(obj => { return obj.name == 'location'; })[0].elements
+        .filter(obj => { return obj.name == 'time'; })[0].elements
+        .filter(obj => { return obj.name == 'sunset'; })[0].attributes.time;
+      console.log("Sunset: " + DATA.sunset_time)
+
+      let sunriseMoment = DateTime.fromISO(DATA.sunrise_time)
+      console.log("Sunrise Moment : " + sunriseMoment.toISO());
+      let sunsetMoment = DateTime.fromISO(DATA.sunset_time)
+      console.log("Sunset Moment  : " + sunsetMoment.toISO());
+
+      let daylightDiff = sunsetMoment.diff(sunriseMoment, ['hours', 'minutes', 'seconds']).toObject()
+      console.log("Daylight Diff : " + daylightDiff);
+
+      let daylightDuration = Duration.fromObject(daylightDiff);
+      console.log("Daylight Duration : " + daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" }));
+
+      DATA.daylight_duration = daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" });
+      console.log("Daylight Duration : " + DATA.daylight_duration);
     });
 }
 
