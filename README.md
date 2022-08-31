@@ -91,32 +91,32 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>20°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>21°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>19°C</b>. <b>14 hours, 13 minutes, and 54 seconds</b> daylight.
+    Feels like <b>20°C</b>. <b>14 hours, 13 minutes, and 54 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:09</b>. Sunset at <b>20:25</b>.
     <br/>
-    Temperature ranges from <b>17°C</b> to <b>20°C</b>.
+    Temperature ranges from <b>18°C</b> to <b>22°C</b>.
     <br/>
-    <b>47%</b> humidity. <b>1027 mbar</b> atmospheric pressure.
+    <b>46%</b> humidity. <b>1026 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Wednesday, 31 August 2022, 14:26:40 CEST</small>
+    <small>Wednesday, 31 August 2022, 17:13:14 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    <b>20°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    <b>21°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday, 31 August, 14:30 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday, 31 August, 17:15 CEST.<br/>
     </br>
 <p/>
 
