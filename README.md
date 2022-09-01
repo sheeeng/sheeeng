@@ -91,32 +91,32 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>11°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>15°C</b>. <b>14 hours, 8 minutes, and 34 seconds</b> daylight.
+    Feels like <b>8°C</b>. <b>14 hours, 8 minutes, and 34 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:11</b>. Sunset at <b>20:22</b>.
     <br/>
-    Temperature ranges from <b>15°C</b> to <b>17°C</b>.
+    Temperature ranges from <b>10°C</b> to <b>12°C</b>.
     <br/>
-    <b>50%</b> humidity. <b>1023 mbar</b> atmospheric pressure.
+    <b>1%</b> humidity. <b>1025 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Thursday, 1 September 2022, 20:20:00 CEST</small>
+    <small>Thursday, 1 September 2022, 23:09:46 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    <b>16°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    <b>11°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 1 September, 20:19 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 1 September, 23:13 CEST.<br/>
     </br>
 <p/>
 
