@@ -91,32 +91,32 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>13°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>14°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>11°C</b>. <b>14 hours, 3 minutes, and 14 seconds</b> daylight.
+    Feels like <b>12°C</b>. <b>14 hours, 3 minutes, and 14 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:14</b>. Sunset at <b>20:19</b>.
     <br/>
-    Temperature ranges from <b>13°C</b> to <b>15°C</b>.
+    Temperature ranges from <b>14°C</b> to <b>14°C</b>.
     <br/>
     <b>1%</b> humidity. <b>1025 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Friday, 2 September 2022, 11:13:23 CEST</small>
+    <small>Friday, 2 September 2022, 14:19:33 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    <b>13°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    <b>14°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Friday, 2 September, 11:14 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Friday, 2 September, 14:30 CEST.<br/>
     </br>
 <p/>
 
