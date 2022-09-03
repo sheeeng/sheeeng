@@ -97,13 +97,13 @@ Here are some ideas to get you started:
     <br/>
     Sunrise at <b>06:16</b>. Sunset at <b>20:16</b>.
     <br/>
-    Temperature ranges from <b>13°C</b> to <b>16°C</b>.
+    Temperature ranges from <b>15°C</b> to <b>16°C</b>.
     <br/>
-    <b>5%</b> humidity. <b>1025 mbar</b> atmospheric pressure.
+    <b>1%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Saturday, 3 September 2022, 14:23:09 CEST</small>
+    <small>Saturday, 3 September 2022, 17:14:43 CEST</small>
     </p>
 </details>
 
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 3 September, 14:25 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 3 September, 17:14 CEST.<br/>
     </br>
 <p/>
 
