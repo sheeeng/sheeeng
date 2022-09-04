@@ -99,11 +99,11 @@ Here are some ideas to get you started:
     <br/>
     Temperature ranges from <b>11°C</b> to <b>13°C</b>.
     <br/>
-    <b>1%</b> humidity. <b>1028 mbar</b> atmospheric pressure.
+    <b>1%</b> humidity. <b>1029 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
     <br/>
-    <small>Sunday, 4 September 2022, 06:19:46 CEST</small>
+    <small>Sunday, 4 September 2022, 08:17:13 CEST</small>
     </p>
 </details>
 
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 4 September, 06:22 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 4 September, 08:17 CEST.<br/>
     </br>
 <p/>
 
