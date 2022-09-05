@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </br>
     <blockquote>
     Leonard coaches various companies on build automation and plumbing Jenkins pipelines. All things configuration as code and cloud infrastructure are his main interests these days.
-    He originally hails from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/> in <b>Sarawak</b>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>, and currently lives in the outskirts of <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    He originally hails from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>, and currently lives in the outskirts of <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     He claims that he enjoys the picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords. He loves to immerse himself with diving in the tropics.
     </blockquote>
 </p>
@@ -91,32 +91,32 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>16°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>18°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>14°C</b>. <b>13 hours, 47 minutes, and 12 seconds</b> daylight.
+    Feels like <b>16°C</b>. <b>13 hours, 47 minutes, and 12 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:21</b>. Sunset at <b>20:10</b>.
     <br/>
-    Temperature ranges from <b>15°C</b> to <b>17°C</b>.
+    Temperature ranges from <b>16°C</b> to <b>18°C</b>.
     <br/>
-    <b>1%</b> humidity. <b>1032 mbar</b> atmospheric pressure.
+    <b>22%</b> humidity. <b>1032 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
     <br/>
-    <small>Monday, 5 September 2022, 11:15:25 CEST</small>
+    <small>Monday, 5 September 2022, 12:15:32 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    <b>16°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    <b>18°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 5 September, 11:15 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 5 September, 12:19 CEST.<br/>
     </br>
 <p/>
 
