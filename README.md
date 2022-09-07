@@ -91,32 +91,32 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>20°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>20°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     Feels like <b>19°C</b>. <b>13 hours, 36 minutes, and 31 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:26</b>. Sunset at <b>20:04</b>.
     <br/>
-    Temperature ranges from <b>19°C</b> to <b>20°C</b>.
+    Temperature ranges from <b>18°C</b> to <b>20°C</b>.
     <br/>
-    <b>47%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
+    <b>49%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
     <br/>
-    <small>Wednesday, 7 September 2022, 14:17:50 CEST</small>
+    <small>Wednesday, 7 September 2022, 14:31:33 CEST</small>
     </p>
 </details>
 
 ---
 
 <p align="center">
-    Currently, <b>20°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>20°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday, 7 September, 14:20 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday, 7 September, 14:31 CEST.<br/>
     </br>
 <p/>
 
