@@ -93,17 +93,17 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>16°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>14°C</b>. <b>13 hours, 31 minutes, and 10 seconds</b> daylight.
+    Feels like <b>15°C</b>. <b>13 hours, 31 minutes, and 10 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:28</b>. Sunset at <b>20:01</b>.
     <br/>
-    Temperature ranges from <b>13°C</b> to <b>17°C</b>.
+    Temperature ranges from <b>16°C</b> to <b>18°C</b>.
     <br/>
-    <b>17%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
+    <b>50%</b> humidity. <b>1022 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
     <br/>
-    <small>Thursday, 8 September 2022, 11:16:37 CEST</small>
+    <small>Thursday, 8 September 2022, 14:30:42 CEST</small>
     </p>
 </details>
 
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 8 September, 11:16 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 8 September, 14:30 CEST.<br/>
     </br>
 <p/>
 
