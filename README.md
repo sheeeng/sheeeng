@@ -91,19 +91,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>-8°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-9°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>-12°C</b>. <b>6 hours, 3 minutes, and 50 seconds</b> daylight.
+    Feels like <b>-13°C</b>. <b>6 hours, 2 minutes, and 5 seconds</b> daylight.
     <br/>
-    Sunrise at <b>09:08</b>. Sunset at <b>15:12</b>.
+    Sunrise at <b>09:09</b>. Sunset at <b>15:11</b>.
     <br/>
-    Temperature ranges from <b>-12°C</b> to <b>-7°C</b>.
+    Temperature ranges from <b>-13°C</b> to <b>-7°C</b>.
     <br/>
-    <b>57%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
+    <b>60%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
     <br/>
-    <small>Sunday, 11 December 2022, 22:10:25 CET</small>
+    <small>Monday, 12 December 2022, 02:06:07 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -113,13 +113,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>-8°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-9°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 11 December, 22:10 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 12 December, 02:06 CET.<br/>
     </br>
 <p/>
 
