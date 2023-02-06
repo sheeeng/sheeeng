@@ -91,19 +91,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>-6°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-6°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>-6°C</b>. <b>8 hours, 19 minutes, and 48 seconds</b> daylight.
+    Feels like <b>-6°C</b>. <b>8 hours, 24 minutes, and 54 seconds</b> daylight.
     <br/>
-    Sunrise at <b>08:21</b>. Sunset at <b>16:39</b>.
+    Sunrise at <b>08:19</b>. Sunset at <b>16:42</b>.
     <br/>
-    Temperature ranges from <b>-7°C</b> to <b>-4°C</b>.
+    Temperature ranges from <b>-8°C</b> to <b>-5°C</b>.
     <br/>
-    <b>91%</b> humidity. <b>1038 mbar</b> atmospheric pressure.
+    <b>96%</b> humidity. <b>1039 mbar</b> atmospheric pressure.
     <br/>
-    When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
+    When it's dark, the <b>Full</b> Moon will appear like :full_moon:.
     <br/>
-    <small>Sunday, 5 February 2023, 22:08:38 CET</small>
+    <small>Monday, 6 February 2023, 01:58:23 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -113,13 +113,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>-6°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-6°C</b>, <b><i>scattered clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 5 February, 22:10 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 6 February, 02:01 CET.<br/>
     </br>
 <p/>
 
