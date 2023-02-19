@@ -91,19 +91,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>-3°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-4°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>-6°C</b>. <b>9 hours, 33 minutes, and 14 seconds</b> daylight.
+    Feels like <b>-7°C</b>. <b>9 hours, 33 minutes, and 14 seconds</b> daylight.
     <br/>
     Sunrise at <b>07:45</b>. Sunset at <b>17:16</b>.
     <br/>
-    Temperature ranges from <b>-7°C</b> to <b>0°C</b>.
+    Temperature ranges from <b>-8°C</b> to <b>0°C</b>.
     <br/>
-    <b>66%</b> humidity. <b>1009 mbar</b> atmospheric pressure.
+    <b>68%</b> humidity. <b>1010 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
     <br/>
-    <small>Sunday, 19 February 2023, 04:16:32 CET</small>
+    <small>Sunday, 19 February 2023, 07:14:21 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -113,13 +113,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>-3°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-4°C</b>, <b><i>clear sky</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 19 February, 04:16 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 19 February, 07:15 CET.<br/>
     </br>
 <p/>
 
