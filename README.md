@@ -93,17 +93,17 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>3°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>1°C</b>. <b>15 hours, 20 minutes, and 13 seconds</b> daylight.
+    Feels like <b>0°C</b>. <b>15 hours, 20 minutes, and 13 seconds</b> daylight.
     <br/>
     Sunrise at <b>05:35</b>. Sunset at <b>20:54</b>.
     <br/>
-    Temperature ranges from <b>2°C</b> to <b>8°C</b>.
+    Temperature ranges from <b>1°C</b> to <b>7°C</b>.
     <br/>
-    <b>97%</b> humidity. <b>1002 mbar</b> atmospheric pressure.
+    <b>98%</b> humidity. <b>1001 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Monday, 24 April 2023, 14:20:20 CEST</small>
+    <small>Monday, 24 April 2023, 17:09:31 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 24 April, 14:22 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday, 24 April, 17:12 CEST.<br/>
     </br>
 <p/>
 
