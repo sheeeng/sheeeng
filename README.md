@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 9 July, 20:15 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 9 July, 20:20 CEST.<br/>
     </br>
 <p/>
 
@@ -130,6 +130,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="nofollow noopener noreferrer">
         <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
     <a/>
+    <br/>
     Wishing you all the best, now and always.
     <br/>
 </p>
