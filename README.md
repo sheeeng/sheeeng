@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <br/>
     When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
     <br/>
-    <small>Sunday, 9 July 2023, 20:06:34 CEST</small>
+    <small>Sunday, 9 July 2023, 20:11:33 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 9 July, 20:14 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday, 9 July, 20:15 CEST.<br/>
     </br>
 <p/>
 
@@ -130,11 +130,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/sheeeng/sheeeng/commits" target="_blank" rel="nofollow noopener noreferrer">
         <img alt="Updated" src="https://img.shields.io/github/last-commit/sheeeng/sheeeng/main?label=Updated&style=flat"/>
     <a/>
-    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.sheeeng.sheeeng.visitor-badge&left_text=Visitors"/>
-    <br/>
-    Your recent visit meant so much.
-    <br/>
     Wishing you all the best, now and always.
     <br/>
-    🖖 <a href="https://intl.startrek.com/news/live-long-and-prosper-jewish-history-month" target="_blank" rel="nofollow noopener noreferrer">“Live Long and Prosper.”</a> 🖖
 </p>
