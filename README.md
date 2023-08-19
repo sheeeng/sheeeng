@@ -97,13 +97,13 @@ Here are some ideas to get you started:
     <br/>
     Sunrise at <b>05:40</b>. Sunset at <b>21:01</b>.
     <br/>
-    Temperature ranges from <b>18°C</b> to <b>21°C</b>.
+    Temperature ranges from <b>19°C</b> to <b>20°C</b>.
     <br/>
-    <b>53%</b> humidity. <b>1024 mbar</b> atmospheric pressure.
+    <b>57%</b> humidity. <b>1022 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Saturday, 19 August 2023, 14:14:39 CEST</small>
+    <small>Saturday, 19 August 2023, 17:08:09 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 19 August, 14:18 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 19 August, 17:09 CEST.<br/>
     </br>
 <p/>
 
