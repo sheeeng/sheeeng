@@ -212,7 +212,7 @@ async function generateReadMe() {
 }
 
 module.exports = async ({ github, context, core }) => {
-  // await fetchMeteorologyData();
+  await fetchMeteorologyData();
   await fetchOpenWeatherData();
   await generateReadMe();
 }
