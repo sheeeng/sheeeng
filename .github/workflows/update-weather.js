@@ -55,7 +55,7 @@ async function fetchMeteorologyData() {
       console.log("~~~~~~~~")
     })
     .then(() => {
-      console.log("ObjectDump: %o", dataAsJson
+      console.log("ObjectDump: %o", dataAsJson.elements
         .filter(obj => { return obj.name == 'geometry'; }).elements
         .filter(obj => { return obj.name == 'when'; }).elements
         .filter(obj => { return obj.name == 'properties'; })[0].elements
