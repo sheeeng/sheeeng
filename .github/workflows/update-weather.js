@@ -60,7 +60,7 @@ async function fetchMeteorologyData() {
         .filter(obj => { return obj.name == 'when'; }).elements
         .filter(obj => { return obj.name == 'properties'; })[0].elements
       )
-    })
+
 
 
     //   DATA.moonphase_value = dataAsJson.elements
