@@ -61,19 +61,6 @@ async function fetchMeteorologyData() {
         .filter(obj => { return obj.name == 'properties'; })[0].elements
       )
 
-    await fetch(
-      `https://api.met.no/weatherapi/sunrise/3.0/moon?lat=59.933333&lon=10.716667&date=${currentDate}&offset=+02:00`,
-      { method: 'GET', headers: meteorologyHeaders }
-    )
-    .then(response => response.text())
-    .then(xmlString => {
-      dataAsJson = JSON.parse(xmlString)
-    })
-    .then(() => {
-      console.log(dataAsJson.properties) // properties
-      console.log("~~~~~~~~")
-    })
-
     //   DATA.moonphase_value = dataAsJson.elements
     //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
     //     .filter(obj => { return obj.name == 'location'; })[0].elements
@@ -140,34 +127,26 @@ async function fetchMeteorologyData() {
     //   }
 
 
-    //   DATA.sunrise_time = dataAsJson.elements
-    //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
-    //     .filter(obj => { return obj.name == 'location'; })[0].elements
-    //     .filter(obj => { return obj.name == 'time'; })[0].elements
-    //     .filter(obj => { return obj.name == 'sunrise'; })[0].attributes.time;
-    //   console.log("Sunrise: " + DATA.sunrise_time)
+      DATA.sunrise_time = dataAsJson.properties.sunrise.time
+      console.log("Sunrise: " + DATA.sunrise_time)
 
-    //   DATA.sunset_time = dataAsJson.elements
-    //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
-    //     .filter(obj => { return obj.name == 'location'; })[0].elements
-    //     .filter(obj => { return obj.name == 'time'; })[0].elements
-    //     .filter(obj => { return obj.name == 'sunset'; })[0].attributes.time;
-    //   console.log("Sunset: " + DATA.sunset_time)
+      DATA.sunset_time = dataAsJson.properties.sunset.time
+      console.log("Sunset: " + DATA.sunset_time)
 
-    //   let sunriseMoment = DateTime.fromISO(DATA.sunrise_time)
-    //   console.log("Sunrise Moment : " + sunriseMoment.toISO());
-    //   let sunsetMoment = DateTime.fromISO(DATA.sunset_time)
-    //   console.log("Sunset Moment  : " + sunsetMoment.toISO());
+      let sunriseMoment = DateTime.fromISO(DATA.sunrise_time)
+      console.log("Sunrise Moment : " + sunriseMoment.toISO());
+      let sunsetMoment = DateTime.fromISO(DATA.sunset_time)
+      console.log("Sunset Moment  : " + sunsetMoment.toISO());
 
-    //   let daylightDiff = sunsetMoment.diff(sunriseMoment, ['hours', 'minutes', 'seconds']).toObject()
-    //   console.log("Daylight Diff : " + daylightDiff);
+      let daylightDiff = sunsetMoment.diff(sunriseMoment, ['hours', 'minutes', 'seconds']).toObject()
+      console.log("Daylight Diff : " + daylightDiff);
 
-    //   let daylightDuration = Duration.fromObject(daylightDiff);
-    //   console.log("Daylight Duration : " + daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" }));
+      let daylightDuration = Duration.fromObject(daylightDiff);
+      console.log("Daylight Duration : " + daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" }));
 
-    //   DATA.daylight_duration = daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" });
-    //   console.log("Daylight Duration : " + DATA.daylight_duration);
-    // });
+      DATA.daylight_duration = daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" });
+      console.log("Daylight Duration : " + DATA.daylight_duration);
+    });
 }
 
 async function fetchOpenWeatherData() {
