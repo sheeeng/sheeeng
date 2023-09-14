@@ -2,7 +2,7 @@ const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const { Headers } = require('node-fetch');
 const fs = require('fs');
-const convert = require('xml-js');
+// const convert = require('xml-js');
 const { Duration, DateTime } = require("luxon");
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
@@ -39,11 +39,11 @@ async function fetchMeteorologyData() {
     { method: 'GET', headers: meteorologyHeaders }
   )
     .then(response => response.text())
-    // .then(xmlString => {
-    //   dataAsJson = JSON.parse(convert.xml2json(xmlString))
-    // })
+    .then(xmlString => {
+      dataAsJson = JSON.parse(xmlString)
+    })
     .then(() => {
-      console.log(response.properties) // properties
+      console.log(dataAsJson.properties) // properties
       console.log("~~~~~~~~")
       // console.log(dataAsJson.elements[0].elements[1].attributes.latitude)
       // console.log("~~~~~~~~")
