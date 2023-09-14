@@ -20,7 +20,7 @@ let DATA = {
   }),
 };
 
-async function fetchMeteorologyData() {
+async function fetchMeteorologySunData() {
   meteorologyHeaders = new Headers({
     'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
   });
@@ -44,28 +44,74 @@ async function fetchMeteorologyData() {
     })
     .then(() => {
       console.log(dataAsJson.properties) // properties
-      console.log("~~~~~~~~")
+      console.log("~~~~ Sun ~~~~")
       console.log(dataAsJson.properties.sunrise.time)
-      console.log("~~~~~~~~")
+      console.log("~~~~ Sun ~~~~")
       console.log(dataAsJson.properties.sunset.time)
-      console.log("~~~~~~~~")
+      console.log("~~~~ Sun ~~~~")
       console.log(dataAsJson.properties.solarnoon.time)
-      console.log("~~~~~~~~")
+      console.log("~~~~ Sun ~~~~")
       console.log(dataAsJson.properties.solarmidnight.time)
-      console.log("~~~~~~~~")
+      console.log("~~~~ Sun ~~~~")
     })
     .then(() => {
+      DATA.sunrise_time = dataAsJson.properties.sunrise.time
+      console.log("Sunrise: " + DATA.sunrise_time)
 
+      DATA.sunset_time = dataAsJson.properties.sunset.time
+      console.log("Sunset: " + DATA.sunset_time)
 
+      let sunriseMoment = DateTime.fromISO(DATA.sunrise_time)
+      console.log("Sunrise Moment : " + sunriseMoment.toISO());
+      let sunsetMoment = DateTime.fromISO(DATA.sunset_time)
+      console.log("Sunset Moment  : " + sunsetMoment.toISO());
 
+      let daylightDiff = sunsetMoment.diff(sunriseMoment, ['hours', 'minutes', 'seconds']).toObject()
+      console.log("Daylight Diff : " + daylightDiff);
 
-    //   DATA.moonphase_value = dataAsJson.elements
-    //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
-    //     .filter(obj => { return obj.name == 'location'; })[0].elements
-    //     .filter(obj => { return obj.name == 'time'; })[0].elements
-    //     .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value;
-    //   console.log("Moonphase Value: " + DATA.moonphase_value)
+      let daylightDuration = Duration.fromObject(daylightDiff);
+      console.log("Daylight Duration : " + daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" }));
 
+      DATA.daylight_duration = daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" });
+      console.log("Daylight Duration : " + DATA.daylight_duration);
+    });
+}
+
+async function fetchMeteorologyMoonData() {
+  meteorologyHeaders = new Headers({
+    'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
+  });
+
+  // https://stackoverflow.com/questions/37693982/how-to-fetch-xml-with-fetch-api/41009103#41009103
+  // https://gist.github.com/prof3ssorSt3v3/61ccf69758cd6dbdc429934564864650
+  // https://stackoverflow.com/questions/11398419/trying-to-use-the-domparser-with-node-js/55668667#55668667
+
+  let dataAsJson = {};
+
+  const currentDate = new Date().toISOString().substring(0, 10);
+  console.log("Current Date: " + currentDate);
+
+  await fetch(
+    `https://api.met.no/weatherapi/sunrise/3.0/moon?lat=59.933333&lon=10.716667&date=${currentDate}&offset=+02:00`,
+    { method: 'GET', headers: meteorologyHeaders }
+  )
+    .then(response => response.text())
+    .then(xmlString => {
+      dataAsJson = JSON.parse(xmlString)
+    })
+    .then(() => {
+      console.log(dataAsJson.properties) // properties
+      console.log("~~~~ Moon ~~~~")
+      console.log(dataAsJson.properties.moonrise.time)
+      console.log("~~~~ Moon ~~~~")
+      console.log(dataAsJson.properties.sunset.time)
+      console.log("~~~~ Moon ~~~~")
+      console.log(dataAsJson.properties.solarnoon.time)
+      console.log("~~~~ Moon ~~~~")
+      console.log(dataAsJson.properties.solarmidnight.time)
+      console.log("~~~~ Moon ~~~~")
+    })
+    .then(() => {
     //   // echo "⇓⇓⇓⇓⇓⇓⇓⇓ Moon Phase ⇓⇓⇓⇓⇓⇓⇓⇓
     //   // 🌑 :new_moon:                   100/0
     //   // 🌒 :waxing_crescent_moon:       0<n<25
@@ -125,25 +171,6 @@ async function fetchMeteorologyData() {
     //   }
 
 
-      DATA.sunrise_time = dataAsJson.properties.sunrise.time
-      console.log("Sunrise: " + DATA.sunrise_time)
-
-      DATA.sunset_time = dataAsJson.properties.sunset.time
-      console.log("Sunset: " + DATA.sunset_time)
-
-      let sunriseMoment = DateTime.fromISO(DATA.sunrise_time)
-      console.log("Sunrise Moment : " + sunriseMoment.toISO());
-      let sunsetMoment = DateTime.fromISO(DATA.sunset_time)
-      console.log("Sunset Moment  : " + sunsetMoment.toISO());
-
-      let daylightDiff = sunsetMoment.diff(sunriseMoment, ['hours', 'minutes', 'seconds']).toObject()
-      console.log("Daylight Diff : " + daylightDiff);
-
-      let daylightDuration = Duration.fromObject(daylightDiff);
-      console.log("Daylight Duration : " + daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" }));
-
-      DATA.daylight_duration = daylightDuration.toHuman({ unitDisplay: 'long', listStyle: "long" });
-      console.log("Daylight Duration : " + DATA.daylight_duration);
     });
 }
 
@@ -201,7 +228,8 @@ async function generateReadMe() {
 }
 
 module.exports = async ({ github, context, core }) => {
-  await fetchMeteorologyData();
+  await fetchMeteorologySunData();
+  await fetchMeteorologyMoonData();
   await fetchOpenWeatherData();
   await generateReadMe();
 }
