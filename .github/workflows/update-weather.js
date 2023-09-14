@@ -2,11 +2,9 @@ const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const { Headers } = require('node-fetch');
 const fs = require('fs');
-// const convert = require('xml-js');
 const { Duration, DateTime } = require("luxon");
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
-// const EuropeOsloTimeZone = 'Europe/Oslo';
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
@@ -21,7 +19,7 @@ let DATA = {
 };
 
 async function fetchMeteorologySunData() {
-  meteorologyHeaders = new Headers({
+  let meteorologyHeaders = new Headers({
     'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
   });
 
@@ -43,6 +41,7 @@ async function fetchMeteorologySunData() {
       dataAsJson = JSON.parse(xmlString)
     })
     .then(() => {
+      // https://docs.api.met.no/doc/formats/SunriseJSON.html
       console.log(dataAsJson.properties) // properties
       console.log("~~~~ Sun ~~~~")
       console.log(dataAsJson.properties.sunrise.time)
@@ -78,7 +77,7 @@ async function fetchMeteorologySunData() {
 }
 
 async function fetchMeteorologyMoonData() {
-  meteorologyHeaders = new Headers({
+  let meteorologyHeaders = new Headers({
     'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
   });
 
@@ -100,6 +99,7 @@ async function fetchMeteorologyMoonData() {
       dataAsJson = JSON.parse(xmlString)
     })
     .then(() => {
+      // https://docs.api.met.no/doc/formats/SunriseJSON.html
       console.log(dataAsJson.properties) // properties
       console.log("~~~~ Moon ~~~~")
       console.log(dataAsJson.properties.moonrise.time)
@@ -110,72 +110,77 @@ async function fetchMeteorologyMoonData() {
       console.log("~~~~ Moon ~~~~")
       console.log(dataAsJson.properties.low_moon.time)
       console.log("~~~~ Moon ~~~~")
+      console.log(dataAsJson.properties.moonphase)
+      console.log("~~~~ Moon ~~~~")
     })
     .then(() => {
-    //   // echo "⇓⇓⇓⇓⇓⇓⇓⇓ Moon Phase ⇓⇓⇓⇓⇓⇓⇓⇓
-    //   // 🌑 :new_moon:                   100/0
-    //   // 🌒 :waxing_crescent_moon:       0<n<25
-    //   // 🌓 :first_quarter_moon:         25
-    //   // 🌔 :moon: :waxing_gibbous_moon: 25<n<50
-    //   // 🌕 :full_moon:                  50
-    //   // 🌖 :waning_gibbous_moon:        50<n<75
-    //   // 🌗 :last_quarter_moon:          75
-    //   // 🌘 :waning_crescent_moon:"      75<n<100
+      DATA.moonphase_value = dataAsJson.properties.moonphase
+      console.log("Moonphase Value: " + DATA.moonphase_value)
 
-    //   // moonphase (time, value), value representing:
-    //   // 0..25: "waxing crescent"
-    //   // 25..50: "waxing gibbous"
-    //   // 50..75: "waning gibbous"
-    //   // 75..100: "waning crescent"
+      // echo "⇓⇓⇓⇓⇓⇓⇓⇓ Moon Phase ⇓⇓⇓⇓⇓⇓⇓⇓
+      // 🌑 :new_moon:                   360/0
+      // 🌒 :waxing_crescent_moon:       0<n<90
+      // 🌓 :first_quarter_moon:         90
+      // 🌔 :moon: :waxing_gibbous_moon: 90<n<180
+      // 🌕 :full_moon:                  180
+      // 🌖 :waning_gibbous_moon:        180<n<270
+      // 🌗 :last_quarter_moon:          270
+      // 🌘 :waning_crescent_moon:"      270<n<360
 
-    //   function between(value, first, last) {
-    //     let lower = Math.min(first, last), upper = Math.max(first, last);
-    //     return value > lower && value < upper;
-    //   }
+      // moonphase (time, value), value representing:
+      // 0:         New moon
+      // 0..90:     Waxing crescent
+      // 90..180:   Waxing gibbous
+      // 180:       Full moon
+      // 180..270:  Waning gibbous
+      // 270..360:  Waning crescent
 
-    //   if (Math.round(DATA.moonphase_value) == 0
-    //     || Math.round(DATA.moonphase_value) == 100) {
-    //     DATA.moonphase_emoji = ':new_moon:';
-    //     DATA.moonphase_name = 'New';
-    //     console.log('🌑 :new_moon:');
-    //   } else if (between(DATA.moonphase_value, 0, 25)) {
-    //     DATA.moonphase_emoji = ':waxing_crescent_moon:';
-    //     DATA.moonphase_name = 'Waxing Crescent';
-    //     console.log('🌒 :waxing_crescent_moon:');
-    //   } else if (Math.round(DATA.moonphase_value) == 25) {
-    //     DATA.moonphase_emoji = ':first_quarter_moon:';
-    //     DATA.moonphase_name = 'First Quarter';
-    //     console.log('🌓 :first_quarter_moon:');
-    //   } else if (between(DATA.moonphase_value, 25, 50)) {
-    //     DATA.moonphase_emoji = ':waxing_gibbous_moon:';
-    //     DATA.moonphase_name = 'Waxing Gibbous';
-    //     console.log('🌔 :waxing_gibbous_moon:');
-    //   } else if (Math.round(DATA.moonphase_value) == 50) {
-    //     DATA.moonphase_emoji = ':full_moon:';
-    //     DATA.moonphase_name = 'Full';
-    //     console.log('🌕 :full_moon:');
-    //   } else if (between(DATA.moonphase_value, 50, 75)) {
-    //     DATA.moonphase_emoji = ':waning_gibbous_moon:';
-    //     DATA.moonphase_name = 'Waning Gibbous';
-    //     console.log('🌖 :waning_gibbous_moon:');
-    //   } else if (Math.round(DATA.moonphase_value) == 75) {
-    //     DATA.moonphase_emoji = ':last_quarter_moon:';
-    //     DATA.moonphase_name = 'Last Quarter';
-    //     console.log('🌗:last_quarter_moon:');
-    //   } else if (between(DATA.moonphase_value, 75, 100)) {
-    //     DATA.moonphase_emoji = ':waning_crescent_moon:';
-    //     DATA.moonphase_name = 'Waning Crescent';
-    //     console.log('🌘 :waning_crescent_moon:');
-    //   } else {
-    //     console.error('⚠️ Unknown Moonphase ⚠️ : ' + DATA.moonphase_value);
-    //   }
+      function between(value, first, last) {
+        let lower = Math.min(first, last), upper = Math.max(first, last);
+        return value > lower && value < upper;
+      }
 
-
+      if (Math.round(DATA.moonphase_value) == 0
+        || Math.round(DATA.moonphase_value) == 360) {
+        DATA.moonphase_emoji = ':new_moon:';
+        DATA.moonphase_name = 'New';
+        console.log('🌑 :new_moon:');
+      } else if (between(DATA.moonphase_value, 0, 90)) {
+        DATA.moonphase_emoji = ':waxing_crescent_moon:';
+        DATA.moonphase_name = 'Waxing Crescent';
+        console.log('🌒 :waxing_crescent_moon:');
+      } else if (Math.round(DATA.moonphase_value) == 90) {
+        DATA.moonphase_emoji = ':first_quarter_moon:';
+        DATA.moonphase_name = 'First Quarter';
+        console.log('🌓 :first_quarter_moon:');
+      } else if (between(DATA.moonphase_value, 90, 180)) {
+        DATA.moonphase_emoji = ':waxing_gibbous_moon:';
+        DATA.moonphase_name = 'Waxing Gibbous';
+        console.log('🌔 :waxing_gibbous_moon:');
+      } else if (Math.round(DATA.moonphase_value) == 180) {
+        DATA.moonphase_emoji = ':full_moon:';
+        DATA.moonphase_name = 'Full';
+        console.log('🌕 :full_moon:');
+      } else if (between(DATA.moonphase_value, 180, 270)) {
+        DATA.moonphase_emoji = ':waning_gibbous_moon:';
+        DATA.moonphase_name = 'Waning Gibbous';
+        console.log('🌖 :waning_gibbous_moon:');
+      } else if (Math.round(DATA.moonphase_value) == 270) {
+        DATA.moonphase_emoji = ':last_quarter_moon:';
+        DATA.moonphase_name = 'Last Quarter';
+        console.log('🌗:last_quarter_moon:');
+      } else if (between(DATA.moonphase_value, 270, 360)) {
+        DATA.moonphase_emoji = ':waning_crescent_moon:';
+        DATA.moonphase_name = 'Waning Crescent';
+        console.log('🌘 :waning_crescent_moon:');
+      } else {
+        console.error('⚠️ Unknown Moonphase ⚠️ : ' + DATA.moonphase_value);
+      }
     });
 }
 
 async function fetchOpenWeatherData() {
-  openWeatherHeaders = new Headers({
+  let openWeatherHeaders = new Headers({
     'Content-Type': 'application/json',
   });
 
