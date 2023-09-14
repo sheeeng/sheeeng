@@ -45,22 +45,34 @@ async function fetchMeteorologyData() {
     .then(() => {
       console.log(dataAsJson.properties) // properties
       console.log("~~~~~~~~")
-      // console.log(dataAsJson.elements[0].elements[1].attributes.latitude)
-      // console.log("~~~~~~~~")
-      // console.log(dataAsJson.elements[0].elements[1].attributes.longitude)
-      // console.log("~~~~~~~~")
-      // console.log(dataAsJson.elements[0].elements[1].elements[0].elements[0]) // astrodata / location / time
-      // console.log("~~~~~~~~")
-      // console.log(dataAsJson.elements[0].elements[1].elements[0].elements[0].attributes.value) // astrodata / location / time / moonphase
-      // console.log("~~~~~~~~")
+      console.log(dataAsJson.properties.sunrise.time)
+      console.log("~~~~~~~~")
+      console.log(dataAsJson.properties.sunset.time)
+      console.log("~~~~~~~~")
+      console.log(dataAsJson.properties.solarnoon.time)
+      console.log("~~~~~~~~")
+      console.log(dataAsJson.properties.solarmidnight.time)
+      console.log("~~~~~~~~")
     })
-    // .then(() => {
-    //   console.log("ObjectDump: %o", dataAsJson.elements
-    //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
-    //     .filter(obj => { return obj.name == 'location'; })[0].elements
-    //     .filter(obj => { return obj.name == 'time'; })[0].elements
-    //     .filter(obj => { return obj.name == 'moonphase'; })[0].attributes.value
-    //   )
+    .then(() => {
+      console.log("ObjectDump: %o", dataAsJson
+        .filter(obj => { return obj.name == 'geometry'; }).elements
+        .filter(obj => { return obj.name == 'when'; }).elements
+        .filter(obj => { return obj.name == 'properties'; })[0].elements
+      )
+
+    await fetch(
+      `https://api.met.no/weatherapi/sunrise/3.0/moon?lat=59.933333&lon=10.716667&date=${currentDate}&offset=+02:00`,
+      { method: 'GET', headers: meteorologyHeaders }
+    )
+    .then(response => response.text())
+    .then(xmlString => {
+      dataAsJson = JSON.parse(xmlString)
+    })
+    .then(() => {
+      console.log(dataAsJson.properties) // properties
+      console.log("~~~~~~~~")
+    })
 
     //   DATA.moonphase_value = dataAsJson.elements
     //     .filter(obj => { return obj.name == 'astrodata'; })[0].elements
