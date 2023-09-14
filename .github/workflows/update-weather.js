@@ -39,8 +39,8 @@ async function fetchMeteorologyData() {
     { method: 'GET', headers: meteorologyHeaders }
   )
     .then(response => response.text())
-    .then(xmlString => {
-      dataAsJson = JSON.parse(convert.xml2json(xmlString))
+    .then(jsonString => {
+      dataAsJson = JSON.parse(convert.xml2json(jsonString))
     })
     .then(() => {
       console.log(dataAsJson.properties) // properties
