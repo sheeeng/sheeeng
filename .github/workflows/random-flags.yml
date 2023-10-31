@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # Enable manual trigger to run workflow.
 
 jobs:
   updates:
