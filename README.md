@@ -93,17 +93,17 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>-4°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>-6°C</b>. <b>6 hours, 2 minutes, and 0 seconds</b> daylight.
+    Feels like <b>-7°C</b>. <b>6 hours, 1 minute, and 0 seconds</b> daylight.
     <br/>
-    Sunrise at <b>09:09</b>. Sunset at <b>15:11</b>.
+    Sunrise at <b>09:10</b>. Sunset at <b>15:11</b>.
     <br/>
     Temperature ranges from <b>-4°C</b> to <b>-4°C</b>.
     <br/>
-    <b>97%</b> humidity. <b>1015 mbar</b> atmospheric pressure.
+    <b>98%</b> humidity. <b>1015 mbar</b> atmospheric pressure.
     <br/>
-    When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
+    When it's dark, the <b>New</b> Moon will appear like :new_moon:.
     <br/>
-    <small>Tuesday, 12 December 2023 at 22:07:26 CET</small>
+    <small>Wednesday, 13 December 2023 at 02:00:31 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday, 12 December at 22:12 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday, 13 December at 02:02 CET.<br/>
     </br>
 <p/>
 
