@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>2°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>2°C</b>. <b>11 hours, 53 minutes, and 0 seconds</b> daylight.
+    Feels like <b>1°C</b>. <b>11 hours, 53 minutes, and 0 seconds</b> daylight.
     <br/>
     Sunrise at <b>06:29</b>. Sunset at <b>18:21</b>.
     <br/>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Saturday, 16 March 2024 at 01:57:30 CET</small>
+    <small>Saturday, 16 March 2024 at 04:11:51 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 16 March at 01:57 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday, 16 March at 04:14 CET.<br/>
     </br>
 <p/>
 
