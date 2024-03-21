@@ -97,13 +97,13 @@ Here are some ideas to get you started:
     <br/>
     Sunrise at <b>06:14</b>. Sunset at <b>18:33</b>.
     <br/>
-    Temperature ranges from <b>1°C</b> to <b>2°C</b>.
+    Temperature ranges from <b>0°C</b> to <b>2°C</b>.
     <br/>
-    <b>97%</b> humidity. <b>1018 mbar</b> atmospheric pressure.
+    <b>98%</b> humidity. <b>1018 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
     <br/>
-    <small>Thursday, 21 March 2024 at 04:14:33 CET</small>
+    <small>Thursday, 21 March 2024 at 07:14:24 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 21 March at 04:15 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday, 21 March at 07:16 CET.<br/>
     </br>
 <p/>
 
