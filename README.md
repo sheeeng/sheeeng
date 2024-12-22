@@ -53,6 +53,7 @@ Here are some ideas to get you started:
     </p>
 </details>
 
+<!--
 <details align="center">
     <summary align="center">Spotify History</summary>
     <p align="center">
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
         <br/>
     </p>
 </details>
+-->
 
 <!-- TODO: Embed iframe properly in Markdown? -->
 <!--
