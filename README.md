@@ -93,19 +93,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>-4°C</b>, <b><i>light snow</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-4°C</b>, <b><i>snow</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>-9°C</b>. <b>6 hours, 4 minutes, and 0 seconds</b> daylight.
+    Feels like <b>-8°C</b>. <b>6 hours, 5 minutes, and 0 seconds</b> daylight.
     <br/>
-    Sunrise at <b>09:18</b>. Sunset at <b>15:21</b>.
+    Sunrise at <b>09:18</b>. Sunset at <b>15:22</b>.
     <br/>
-    Temperature ranges from <b>-4°C</b> to <b>-3°C</b>.
+    Temperature ranges from <b>-4°C</b> to <b>-4°C</b>.
     <br/>
-    <b>91%</b> humidity. <b>998 mbar</b> atmospheric pressure.
+    <b>88%</b> humidity. <b>995 mbar</b> atmospheric pressure.
     <br/>
-    When it's dark, the <b>New</b> Moon will appear like :new_moon:.
+    When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Tuesday 31 December 2024 at 22:15:17 CET</small>
+    <small>Wednesday 1 January 2025 at 02:24:19 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>-4°C</b>, <b><i>light snow</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>-4°C</b>, <b><i>snow</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday 31 December at 22:15 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday 1 January at 02:24 CET.<br/>
     </br>
 <p/>
 
