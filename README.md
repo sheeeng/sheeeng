@@ -93,19 +93,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>8°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>10°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     Feels like <b>7°C</b>. <b>10 hours, 52 minutes, and 0 seconds</b> daylight.
     <br/>
     Sunrise at <b>07:03</b>. Sunset at <b>17:53</b>.
     <br/>
-    Temperature ranges from <b>8°C</b> to <b>10°C</b>.
+    Temperature ranges from <b>10°C</b> to <b>10°C</b>.
     <br/>
-    <b>82%</b> humidity. <b>996 mbar</b> atmospheric pressure.
+    <b>73%</b> humidity. <b>996 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Wednesday 5 March 2025 at 19:24:44 CET</small>
+    <small>Wednesday 5 March 2025 at 22:16:28 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>8°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>10°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday 5 March at 19:25 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday 5 March at 22:16 CET.<br/>
     </br>
 <p/>
 
