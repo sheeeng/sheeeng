@@ -101,11 +101,11 @@ Here are some ideas to get you started:
     <br/>
     Temperature ranges from <b>4°C</b> to <b>4°C</b>.
     <br/>
-    <b>89%</b> humidity. <b>1009 mbar</b> atmospheric pressure.
+    <b>89%</b> humidity. <b>1008 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
     <br/>
-    <small>Thursday, 27 March 2025 at 04:28:40 CET</small>
+    <small>Thursday, 27 March 2025 at 07:24:28 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday 27 March at 04:32 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday 27 March at 07:25 CET.<br/>
     </br>
 <p/>
 
