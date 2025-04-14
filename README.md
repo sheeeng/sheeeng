@@ -99,13 +99,13 @@ Here are some ideas to get you started:
     <br/>
     Sunrise at <b>06:03</b>. Sunset at <b>20:30</b>.
     <br/>
-    Temperature ranges from <b>7°C</b> to <b>8°C</b>.
+    Temperature ranges from <b>8°C</b> to <b>8°C</b>.
     <br/>
-    <b>92%</b> humidity. <b>997 mbar</b> atmospheric pressure.
+    <b>91%</b> humidity. <b>999 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
     <br/>
-    <small>Monday, 14 April 2025 at 05:37:06 CEST</small>
+    <small>Monday, 14 April 2025 at 08:25:06 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday 14 April at 05:37 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday 14 April at 08:28 CEST.<br/>
     </br>
 <p/>
 
