@@ -93,19 +93,19 @@ Here are some ideas to get you started:
     <summary align="center">Meteorology</summary>
     <p align="center">
     <br/>
-    Currently, <b>8°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>4°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>5°C</b>. <b>16 hours, 10 minutes, and 0 seconds</b> daylight.
+    Feels like <b>-1°C</b>. <b>16 hours, 15 minutes, and 0 seconds</b> daylight.
     <br/>
-    Sunrise at <b>05:09</b>. Sunset at <b>21:18</b>.
+    Sunrise at <b>05:06</b>. Sunset at <b>21:20</b>.
     <br/>
-    Temperature ranges from <b>8°C</b> to <b>9°C</b>.
+    Temperature ranges from <b>3°C</b> to <b>4°C</b>.
     <br/>
-    <b>48%</b> humidity. <b>1003 mbar</b> atmospheric pressure.
+    <b>57%</b> humidity. <b>1007 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
     <br/>
-    <small>Saturday, 3 May 2025 at 23:12:09 CEST</small>
+    <small>Sunday, 4 May 2025 at 03:43:40 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    Currently, <b>8°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>4°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday 3 May at 23:16 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday 4 May at 03:43 CEST.<br/>
     </br>
 <p/>
 
