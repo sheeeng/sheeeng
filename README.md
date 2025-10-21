@@ -101,11 +101,11 @@ Here are some ideas to get you started:
     <br/>
     Temperature ranges from <b>8°C</b> to <b>8°C</b>.
     <br/>
-    <b>95%</b> humidity. <b>996 mbar</b> atmospheric pressure.
+    <b>95%</b> humidity. <b>995 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
     <br/>
-    <small>Tuesday, 21 October 2025 at 14:39:10 CEST</small>
+    <small>Tuesday, 21 October 2025 at 15:44:16 CEST</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday 21 October at 14:41 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday 21 October at 15:47 CEST.<br/>
     </br>
 <p/>
 
@@ -134,9 +134,5 @@ Here are some ideas to get you started:
     <a/>
     <br/>
     Wishing you all the best, now and always.
-    <br/>
-    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-hifive-loop-once-8c78f1af57d0-boomerang.gif" target="_blank" rel="nofollow noopener noreferrer">
-        <img src="./images/mona-hifive-loop-once-8c78f1af57d0-boomerang.gif" width="128" height="48" alt="Mona Lisa HiFive"/>
-    </a>
     <br/>
 </p>
