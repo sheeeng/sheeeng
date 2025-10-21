@@ -135,4 +135,8 @@ Here are some ideas to get you started:
     <br/>
     Wishing you all the best, now and always.
     <br/>
+    <a alt="Octocat" title="Octocat" href="https://github.githubassets.com/images/mona-hifive-loop-once-8c78f1af57d0-boomerang.gif" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="./images/mona-hifive-loop-once-8c78f1af57d0-boomerang.gif" width="128" height="48" alt="Mona Lisa HiFive"/>
+    </a>
+    <br/>
 </p>
