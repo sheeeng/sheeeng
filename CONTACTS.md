@@ -28,7 +28,7 @@
 <!-- https://raw.githubusercontent.com/samujjwaal/samujjwaal/master/README.md -->
 
 <!--
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leonard.sheng.sheng.lee@gmail.com "Hello from GitHub!")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:305414+sheeeng@users.noreply.github.com "Hello from GitHub!")
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheeeng/ "Connect on LinkedIn.")
 
@@ -38,10 +38,7 @@
 
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/sheeeng "Connect on Messenger.")
 
-
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sheeeng/ "Connect on Instagram")
-
 
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/sheeeng?si=b5d4c8bb33ca410c "Connect on Spotify.")
 

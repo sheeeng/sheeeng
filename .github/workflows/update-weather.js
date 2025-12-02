@@ -21,7 +21,7 @@ let DATA = {
 
 async function fetchMeteorologySunData() {
   let meteorologyHeaders = new Headers({
-    'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
+    'User-Agent': 'github.com/sheeeng 305414+sheeeng@users.noreply.github.com',
   });
 
   // https://stackoverflow.com/questions/37693982/how-to-fetch-xml-with-fetch-api/41009103#41009103
@@ -79,7 +79,7 @@ async function fetchMeteorologySunData() {
 
 async function fetchMeteorologyMoonData() {
   let meteorologyHeaders = new Headers({
-    'User-Agent': 'github.com/sheeeng leonard.sheng.sheng.lee@gmail.com',
+    'User-Agent': 'github.com/sheeeng 305414+sheeeng@users.noreply.github.com',
   });
 
   // https://stackoverflow.com/questions/37693982/how-to-fetch-xml-with-fetch-api/41009103#41009103
