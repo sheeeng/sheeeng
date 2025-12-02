@@ -13,6 +13,7 @@ let DATA = {
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
+    second: 'numeric',
     timeZoneName: 'short',
     timeZone: 'Europe/Oslo',
   }),
