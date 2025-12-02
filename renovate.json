@@ -1,0 +1,20 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:best-practices",
+    ":disableDependencyDashboard"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "description": "https://docs.renovatebot.com/configuration-options/#lockfilemaintenance"
+  },
+  "packageRules": [
+    {
+      "matchManagers": [
+        "github-actions"
+      ],
+      "description": "Ignore GitHub Actions dependencies as they are handled by Dependabot.",
+      "enabled": false
+    }
+  ]
+}
