@@ -95,17 +95,17 @@ Here are some ideas to get you started:
     <br/>
     Currently, <b>9°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
-    Feels like <b>7°C</b>. <b>5 hours, 57 minutes, and 0 seconds</b> daylight.
+    Feels like <b>6°C</b>. <b>5 hours, 56 minutes, and 0 seconds</b> daylight.
     <br/>
-    Sunrise at <b>09:13</b>. Sunset at <b>15:11</b>.
+    Sunrise at <b>09:14</b>. Sunset at <b>15:10</b>.
     <br/>
-    Temperature ranges from <b>9°C</b> to <b>10°C</b>.
+    Temperature ranges from <b>9°C</b> to <b>9°C</b>.
     <br/>
-    <b>96%</b> humidity. <b>1004 mbar</b> atmospheric pressure.
+    <b>95%</b> humidity. <b>1004 mbar</b> atmospheric pressure.
     <br/>
     When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
     <br/>
-    <small>Monday, 15 December 2025 at 22:13:22 CET</small>
+    <small>Tuesday, 16 December 2025 at 02:11:27 CET</small>
     <br/>
     <br/>
     The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday 15 December at 22:14:51 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday 16 December at 2:13:16 CET.<br/>
     </br>
 <p/>
 
