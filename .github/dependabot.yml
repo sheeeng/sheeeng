@@ -1,17 +1,19 @@
+# Unsupported:
+# pre-commit-hooks: https://github.com/dependabot/dependabot-core/issues/1524
+# terraform's required_version: https://github.com/dependabot/dependabot-core/issues/8725
+# tflint: https://github.com/dependabot/dependabot-core/issues/7515
 ---
-# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
+    schedule:
+      interval: "daily"
     groups:
       github-actions:
         patterns:
           - "*"
-        update-types:
-          - major
-          - minor
-          - patch
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 10
+    labels:
+      - dependencies
+      - github-actions
+    open-pull-requests-limit: 5
