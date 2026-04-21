@@ -1,8 +1,8 @@
-name: "Update Flake Lock"
+name: "Update Nix Flake Lock"
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, unstable ]
   workflow_dispatch:
   schedule:
     - cron: "0 03 * * 1-5" # “At 03:00 UTC on every day-of-week from Monday through Friday.” # https://crontab.guru/#0_3_*_*_1-5
@@ -10,7 +10,7 @@ on:
 permissions: {}
 
 jobs:
-  update-flake-lock:
+  update-nix-flake-lock:
     permissions:
       contents: write
       pull-requests: write
@@ -19,7 +19,7 @@ jobs:
       - uses: actions/create-github-app-token@1b10c78c7865c340bc4f6099eb2f838309f1e8c3 # v3.1.1
         id: create-token
         with:
-          client-id: ${{ vars.APP_ID }}
+          client-id: ${{ vars.APP_CLIENT_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
 
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
@@ -38,7 +38,7 @@ jobs:
       # https://github.com/orgs/community/discussions/26560#discussioncomment-12555758
       # https://github.com/actions/checkout/blob/8e8c483db84b4bee98b60c0593521ed34d9990e8/README.md#L358
 
-      - name: Update Flake Lock & Create PR
+      - name: Update Flake Lock & Create Pull Request
         run: |
           # Configure git identity.
           git config user.name "github-actions[bot]"
