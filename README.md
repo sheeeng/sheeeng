@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <summary align="center">Meteorology</summary>
 <p align="center">
 <br/>
-Currently, <b>16°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+Currently, <b>16°C</b>, <b><i>moderate rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
 <br/>
 Feels like <b>16°C</b>. <b>18 hours, 25 minutes, and 0 seconds</b> daylight.
 <br/>
@@ -102,11 +102,11 @@ Sunrise at <b>04:03</b>. Sunset at <b>22:27</b>.
 <br/>
 Temperature ranges from <b>12°C</b> to <b>16°C</b>.
 <br/>
-<b>84%</b> humidity. <b>998 mbar</b> atmospheric pressure.
+<b>91%</b> humidity. <b>999 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
 <br/>
-<small>Thursday, 4 June 2026 at 12:17:43 CEST</small>
+<small>Thursday, 4 June 2026 at 14:58:20 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>16°C</b>, <b><i>light rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>16°C</b>, <b><i>moderate rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday 4 June at 12:17:41 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday 4 June at 15:01:18 CEST.<br/>
     </br>
 <p/>
 
