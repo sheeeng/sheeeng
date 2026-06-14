@@ -100,13 +100,13 @@ Feels like <b>13°C</b>. <b>18 hours, 46 minutes, and 0 seconds</b> daylight.
 <br/>
 Sunrise at <b>03:54</b>. Sunset at <b>22:39</b>.
 <br/>
-Temperature ranges from <b>14°C</b> to <b>14°C</b>.
+Temperature ranges from <b>12°C</b> to <b>14°C</b>.
 <br/>
-<b>61%</b> humidity. <b>1003 mbar</b> atmospheric pressure.
+<b>57%</b> humidity. <b>1003 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
 <br/>
-<small>Sunday, 14 June 2026 at 20:25:33 CEST</small>
+<small>Sunday, 14 June 2026 at 23:18:45 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday 14 June at 20:28:22 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday 14 June at 23:28:04 CEST.<br/>
     </br>
 <p/>
 
