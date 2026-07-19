@@ -96,17 +96,17 @@ Here are some ideas to get you started:
 <br/>
 Currently, <b>10°C</b>, <b><i>moderate rain</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
 <br/>
-Feels like <b>10°C</b>. <b>17 hours, 51 minutes, and 0 seconds</b> daylight.
+Feels like <b>8°C</b>. <b>17 hours, 47 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>04:26</b>. Sunset at <b>22:19</b>.
+Sunrise at <b>04:28</b>. Sunset at <b>22:17</b>.
 <br/>
-Temperature ranges from <b>8°C</b> to <b>10°C</b>.
+Temperature ranges from <b>7°C</b> to <b>10°C</b>.
 <br/>
-<b>83%</b> humidity. <b>1011 mbar</b> atmospheric pressure.
+<b>84%</b> humidity. <b>1014 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
 <br/>
-<small>Saturday, 18 July 2026 at 23:15:40 CEST</small>
+<small>Sunday, 19 July 2026 at 02:27:26 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -121,7 +121,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday 18 July at 23:15:48 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Sunday 19 July at 2:27:24 CEST.<br/>
     </br>
 <p/>
 
