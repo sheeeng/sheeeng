@@ -94,19 +94,19 @@ Here are some ideas to get you started:
 <summary align="center">Meteorology</summary>
 <p align="center">
 <br/>
-Currently, <b>19°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+Currently, <b>18°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
 <br/>
-Feels like <b>19°C</b>. <b>17 hours, 3 minutes, and 0 seconds</b> daylight.
+Feels like <b>18°C</b>. <b>16 hours, 59 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>04:50</b>. Sunset at <b>21:55</b>.
+Sunrise at <b>04:53</b>. Sunset at <b>21:53</b>.
 <br/>
-Temperature ranges from <b>15°C</b> to <b>19°C</b>.
+Temperature ranges from <b>14°C</b> to <b>18°C</b>.
 <br/>
-<b>86%</b> humidity. <b>1012 mbar</b> atmospheric pressure.
+<b>91%</b> humidity. <b>1011 mbar</b> atmospheric pressure.
 <br/>
-When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
+When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
 <br/>
-<small>Wednesday, 29 July 2026 at 23:13:45 CEST</small>
+<small>Thursday, 30 July 2026 at 02:26:06 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>19°C</b>, <b><i>overcast clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>18°C</b>, <b><i>broken clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday 29 July at 23:18:04 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Thursday 30 July at 2:26:04 CEST.<br/>
     </br>
 <p/>
 
