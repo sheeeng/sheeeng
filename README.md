@@ -33,9 +33,9 @@ Here are some ideas to get you started:
     Welcome! <a href="https://www.nationalgeographic.com/travel/article/the-fascinating-history-behind-the-popular-waving-lucky-cat" target="_blank" rel="nofollow noopener noreferrer"><code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code></a>
     </br>
     <blockquote>
-    Leonard coaches various companies on build automation and plumbing Jenkins pipelines. All things configuration as code and cloud infrastructure are his main interests these days.
-    He originally hails from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/>, <img alt="Malaysia" title="Malaysia" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="14"/>, and currently lives in the outskirts of <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
-    He claims that he enjoys the picturesque nature and unpredictable weather, and try to prove it by kayaking in the fjords. He loves to immerse himself with diving in the tropics.
+    Leonard has coached companies on automating builds and streamlining deployment pipelines. His main interests are configuration as code and cloud infrastructure.
+    Originally from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/>, Malaysia 🇲🇾, he is based in <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, Norway 🇳🇴.
+    He says he enjoys the picturesque scenery and unpredictable weather, and tries to prove it by kayaking in the fjords. He also loves diving in the tropics.
     </blockquote>
 </p>
 
@@ -94,19 +94,19 @@ Here are some ideas to get you started:
 <summary align="center">Meteorology</summary>
 <p align="center">
 <br/>
-Currently, <b>22°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+Currently, <b>20°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>22°C</b>. <b>16 hours, 54 minutes, and 0 seconds</b> daylight.
+Feels like <b>20°C</b>. <b>16 hours, 54 minutes, and 0 seconds</b> daylight.
 <br/>
 Sunrise at <b>04:55</b>. Sunset at <b>21:51</b>.
 <br/>
-Temperature ranges from <b>21°C</b> to <b>22°C</b>.
+Temperature ranges from <b>19°C</b> to <b>20°C</b>.
 <br/>
-<b>47%</b> humidity. <b>1008 mbar</b> atmospheric pressure.
+<b>66%</b> humidity. <b>1008 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
 <br/>
-<small>Friday, 31 July 2026 at 17:38:37 CEST</small>
+<small>Friday, 31 July 2026 at 19:49:52 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -115,13 +115,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>22°C</b>, <b><i>few clouds</i></b> in Oslo, <img alt="Norway" title="Norway" src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="14"/>.
+    Currently, <b>20°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Friday 31 July at 17:41:44 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Friday 31 July at 19:52:17 CEST.<br/>
     </br>
 <p/>
 
