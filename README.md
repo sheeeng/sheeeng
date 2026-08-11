@@ -96,19 +96,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>13°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
+Currently, <b>11°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>12°C</b>. <b>16 hours, 4 minutes, and 0 seconds</b> daylight.
+Feels like <b>11°C</b>. <b>16 hours, 0 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>05:19</b>. Sunset at <b>21:25</b>.
+Sunrise at <b>05:21</b>. Sunset at <b>21:22</b>.
 <br/>
-Temperature ranges from <b>13°C</b> to <b>13°C</b>.
+Temperature ranges from <b>11°C</b> to <b>11°C</b>.
 <br/>
-<b>69%</b> humidity. <b>1007 mbar</b> atmospheric pressure.
+<b>72%</b> humidity. <b>1010 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
 <br/>
-<small>Monday, 10 August 2026 at 23:15:03 CEST</small>
+<small>Tuesday, 11 August 2026 at 02:14:05 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -117,13 +117,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>13°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
+    Currently, <b>11°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Monday 10 August at 23:15:01 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Tuesday 11 August at 2:14:04 CEST.<br/>
     </br>
 <p/>
 
