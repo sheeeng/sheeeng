@@ -96,19 +96,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>19°C</b>, <b><i>heavy intensity rain</i></b> in Oslo, 🇳🇴.
+Currently, <b>16°C</b>, <b><i>light rain</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>19°C</b>. <b>15 hours, 43 minutes, and 0 seconds</b> daylight.
+Feels like <b>16°C</b>. <b>15 hours, 39 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>05:28</b>. Sunset at <b>21:14</b>.
+Sunrise at <b>05:31</b>. Sunset at <b>21:11</b>.
 <br/>
-Temperature ranges from <b>15°C</b> to <b>19°C</b>.
+Temperature ranges from <b>13°C</b> to <b>16°C</b>.
 <br/>
-<b>76%</b> humidity. <b>1011 mbar</b> atmospheric pressure.
+<b>87%</b> humidity. <b>1010 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
 <br/>
-<small>Friday, 14 August 2026 at 23:05:47 CEST</small>
+<small>Saturday, 15 August 2026 at 02:05:32 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -117,13 +117,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>19°C</b>, <b><i>heavy intensity rain</i></b> in Oslo, 🇳🇴.
+    Currently, <b>16°C</b>, <b><i>light rain</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Friday 14 August at 23:05:45 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Saturday 15 August at 2:09:02 CEST.<br/>
     </br>
 <p/>
 
