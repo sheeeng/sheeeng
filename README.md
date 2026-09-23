@@ -33,9 +33,12 @@ Here are some ideas to get you started:
     Welcome! <a href="https://www.nationalgeographic.com/travel/article/the-fascinating-history-behind-the-popular-waving-lucky-cat" target="_blank" rel="nofollow noopener noreferrer"><code>ฅ(ﾐ꒡⋏꒡ﾐ)∫</code></a>
     </br>
     <blockquote>
-    Leonard has coached companies on automating builds and streamlining deployment pipelines. His main interests are configuration as code and cloud infrastructure.
-    Originally from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/>, Malaysia 🇲🇾, he is based in <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, Norway 🇳🇴.
-    He says he enjoys the picturesque scenery and unpredictable weather, and tries to prove it by kayaking in the fjords. He also loves diving in the tropics.
+    Leonard automates builds and streamlines deployments.
+    He has spent years plumbing platforms and pipelines and, unfortunately, now pumps prompts too.
+    His main interests are configuration as code, cloud infrastructure, and finding new ways to automate things that probably worked fine before.
+    Originally from <a href="https://sarawaktourism.com/story/welcome-to-the-cat-city/">Kuching<a/>, <a href="https://www.bbc.com/travel/article/20170531-the-asian-city-obsessed-with-cats" target="_blank" rel="nofollow noopener noreferrer">The City of Cats<a/>, Malaysia 🇲🇾, he now lives in <a href="https://www.visitoslo.com/en/product/?TLp=495431" target="_blank" rel="nofollow noopener noreferrer">Oslo, The Tiger City<a/>, Norway 🇳🇴.
+    He claims to enjoy the scenery and unpredictable weather, and occasionally proves it by kayaking in the fjords.
+    Given the chance, though, he would rather be diving somewhere tropical.  
     </blockquote>
 </p>
 
@@ -104,11 +107,11 @@ Sunrise at <b>07:03</b>. Sunset at <b>19:15</b>.
 <br/>
 Temperature ranges from <b>12°C</b> to <b>15°C</b>.
 <br/>
-<b>79%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
+<b>78%</b> humidity. <b>1019 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
 <br/>
-<small>Wednesday, 23 September 2026 at 11:47:52 CEST</small>
+<small>Wednesday, 23 September 2026 at 12:19:53 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -123,7 +126,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> at Wednesday 23 September at 11:49:33 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Wednesday 23 September at 12:23:38 CEST.<br/>
     </br>
 <p/>
 
