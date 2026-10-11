@@ -107,11 +107,11 @@ Sunrise at <b>07:45</b>. Sunset at <b>18:21</b>.
 <br/>
 Temperature ranges from <b>2°C</b> to <b>4°C</b>.
 <br/>
-<b>76%</b> humidity. <b>1003 mbar</b> atmospheric pressure.
+<b>78%</b> humidity. <b>1004 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
 <br/>
-<small>Sunday, 11 October 2026 at 05:13:27 CEST</small>
+<small>Sunday, 11 October 2026 at 08:10:57 CEST</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -126,7 +126,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Sunday 11 October at 5:13:25 CEST.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Sunday 11 October at 8:11:08 CEST.<br/>
     </br>
 <p/>
 
