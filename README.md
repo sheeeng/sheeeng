@@ -101,17 +101,17 @@ Here are some ideas to get you started:
 <br/>
 Currently, <b>7°C</b>, <b><i>heavy intensity rain</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>3°C</b>. <b>9 hours, 19 minutes, and 0 seconds</b> daylight.
+Feels like <b>5°C</b>. <b>9 hours, 19 minutes, and 0 seconds</b> daylight.
 <br/>
 Sunrise at <b>07:20</b>. Sunset at <b>16:41</b>.
 <br/>
-Temperature ranges from <b>7°C</b> to <b>7°C</b>.
+Temperature ranges from <b>6°C</b> to <b>7°C</b>.
 <br/>
-<b>95%</b> humidity. <b>983 mbar</b> atmospheric pressure.
+<b>96%</b> humidity. <b>979 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Gibbous</b> Moon will appear like :waxing_gibbous_moon:.
 <br/>
-<small>Sunday, 25 October 2026 at 07:07:04 CET</small>
+<small>Sunday, 25 October 2026 at 10:06:12 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -126,7 +126,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Sunday 25 October at 7:10:04 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Sunday 25 October at 10:06:11 CET.<br/>
     </br>
 <p/>
 
