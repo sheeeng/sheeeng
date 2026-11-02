@@ -99,19 +99,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>8°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
+Currently, <b>6°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>6°C</b>. <b>8 hours, 43 minutes, and 0 seconds</b> daylight.
+Feels like <b>3°C</b>. <b>8 hours, 38 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>07:38</b>. Sunset at <b>16:22</b>.
+Sunrise at <b>07:40</b>. Sunset at <b>16:20</b>.
 <br/>
-Temperature ranges from <b>7°C</b> to <b>8°C</b>.
+Temperature ranges from <b>4°C</b> to <b>6°C</b>.
 <br/>
-<b>75%</b> humidity. <b>1030 mbar</b> atmospheric pressure.
+<b>70%</b> humidity. <b>1031 mbar</b> atmospheric pressure.
 <br/>
-When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
+When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
 <br/>
-<small>Sunday, 1 November 2026 at 22:03:33 CET</small>
+<small>Monday, 2 November 2026 at 01:08:09 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -120,13 +120,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>8°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
+    Currently, <b>6°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Sunday 1 November at 22:03:31 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Monday 2 November at 1:12:10 CET.<br/>
     </br>
 <p/>
 
