@@ -99,19 +99,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>0°C</b>, <b><i>overcast clouds</i></b> in Oslo, 🇳🇴.
+Currently, <b>3°C</b>, <b><i>overcast clouds</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>0°C</b>. <b>8 hours, 2 minutes, and 0 seconds</b> daylight.
+Feels like <b>3°C</b>. <b>8 hours, 2 minutes, and 0 seconds</b> daylight.
 <br/>
 Sunrise at <b>07:58</b>. Sunset at <b>16:03</b>.
 <br/>
-Temperature ranges from <b>-1°C</b> to <b>1°C</b>.
+Temperature ranges from <b>1°C</b> to <b>3°C</b>.
 <br/>
-<b>82%</b> humidity. <b>1021 mbar</b> atmospheric pressure.
+<b>86%</b> humidity. <b>1020 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Crescent</b> Moon will appear like :waning_crescent_moon:.
 <br/>
-<small>Monday, 9 November 2026 at 10:00:43 CET</small>
+<small>Monday, 9 November 2026 at 13:04:12 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -120,13 +120,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>0°C</b>, <b><i>overcast clouds</i></b> in Oslo, 🇳🇴.
+    Currently, <b>3°C</b>, <b><i>overcast clouds</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Monday 9 November at 10:05:40 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Monday 9 November at 13:06:27 CET.<br/>
     </br>
 <p/>
 
