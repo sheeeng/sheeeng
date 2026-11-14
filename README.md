@@ -99,19 +99,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>-2°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
+Currently, <b>-3°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>-5°C</b>. <b>7 hours, 43 minutes, and 0 seconds</b> daylight.
+Feels like <b>-3°C</b>. <b>7 hours, 38 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>08:08</b>. Sunset at <b>15:53</b>.
+Sunrise at <b>08:11</b>. Sunset at <b>15:51</b>.
 <br/>
-Temperature ranges from <b>-2°C</b> to <b>-1°C</b>.
+Temperature ranges from <b>-4°C</b> to <b>-2°C</b>.
 <br/>
-<b>78%</b> humidity. <b>1003 mbar</b> atmospheric pressure.
+<b>76%</b> humidity. <b>1004 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waxing Crescent</b> Moon will appear like :waxing_crescent_moon:.
 <br/>
-<small>Friday, 13 November 2026 at 22:00:05 CET</small>
+<small>Saturday, 14 November 2026 at 01:09:58 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -120,13 +120,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>-2°C</b>, <b><i>clear sky</i></b> in Oslo, 🇳🇴.
+    Currently, <b>-3°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Friday 13 November at 22:02:59 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Saturday 14 November at 1:10:28 CET.<br/>
     </br>
 <p/>
 
