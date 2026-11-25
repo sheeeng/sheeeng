@@ -99,19 +99,19 @@ Here are some ideas to get you started:
 <p align="center"><strong>Meteorology</strong></p>
 <p align="center">
 <br/>
-Currently, <b>-1°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
+Currently, <b>-6°C</b>, <b><i>few clouds</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>-4°C</b>. <b>6 hours, 51 minutes, and 0 seconds</b> daylight.
+Feels like <b>-9°C</b>. <b>6 hours, 51 minutes, and 0 seconds</b> daylight.
 <br/>
 Sunrise at <b>08:38</b>. Sunset at <b>15:30</b>.
 <br/>
-Temperature ranges from <b>-2°C</b> to <b>-1°C</b>.
+Temperature ranges from <b>-6°C</b> to <b>-4°C</b>.
 <br/>
-<b>63%</b> humidity. <b>1030 mbar</b> atmospheric pressure.
+<b>61%</b> humidity. <b>1031 mbar</b> atmospheric pressure.
 <br/>
 When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
 <br/>
-<small>Wednesday, 25 November 2026 at 13:05:24 CET</small>
+<small>Wednesday, 25 November 2026 at 16:00:44 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -120,13 +120,13 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
 ---
 
 <p align="center">
-    Currently, <b>-1°C</b>, <b><i>scattered clouds</i></b> in Oslo, 🇳🇴.
+    Currently, <b>-6°C</b>, <b><i>few clouds</i></b> in Oslo, 🇳🇴.
     <br/>
     <br/>
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Wednesday 25 November at 13:06:10 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Wednesday 25 November at 16:04:31 CET.<br/>
     </br>
 <p/>
 
