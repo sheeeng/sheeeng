@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 <br/>
 Currently, <b>-3°C</b>, <b><i>overcast clouds</i></b> in Oslo, 🇳🇴.
 <br/>
-Feels like <b>-3°C</b>. <b>6 hours, 44 minutes, and 0 seconds</b> daylight.
+Feels like <b>-3°C</b>. <b>6 hours, 39 minutes, and 0 seconds</b> daylight.
 <br/>
-Sunrise at <b>08:42</b>. Sunset at <b>15:27</b>.
+Sunrise at <b>08:44</b>. Sunset at <b>15:25</b>.
 <br/>
 Temperature ranges from <b>-3°C</b> to <b>-3°C</b>.
 <br/>
@@ -111,7 +111,7 @@ Temperature ranges from <b>-3°C</b> to <b>-3°C</b>.
 <br/>
 When it's dark, the <b>Waning Gibbous</b> Moon will appear like :waning_gibbous_moon:.
 <br/>
-<small>Friday, 27 November 2026 at 21:58:23 CET</small>
+<small>Saturday, 28 November 2026 at 01:07:30 CET</small>
 <br/>
 <br/>
 The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentration-of-carbon-dioxide-5" target="_blank" rel="nofollow noopener noreferrer">atmosphere</a> had 340.92 CO₂ (ppm), 1600,69 CH₄ (ppb), and 303.56 N₂O (ppb) in the year that I took my first breath.
@@ -126,7 +126,7 @@ The <a href="https://www.eea.europa.eu/data-and-maps/daviz/atmospheric-concentra
     This <i>README<i/> file is <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"
     target="_blank" rel="nofollow noopener noreferrer">generated</a><b> every 3 hours</b>.
     </br>
-    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Friday 27 November at 22:03:13 CET.<br/>
+    <a href="https://github.com/sheeeng/sheeeng/commits">Last modified</a> on Saturday 28 November at 1:10:16 CET.<br/>
     </br>
 <p/>
 
